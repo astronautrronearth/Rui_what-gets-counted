@@ -1,8 +1,3 @@
-"""LLM annotator 'A_llm' for the WWW audits T1-T4 (2026-11-07). Model: Qwen/Qwen3.5-4B (latest Qwen 4B, 2026-02),
-greedy, thinking off. Same items and the same guideline sections (ANNOTATION_PLAN.md) the human annotators see; T3
-without web search. Output: CSVs in the human export format under outputs/www_audit/returned/llm_A/ (post text:
-outputs only). NOTE: the labels being audited (topics T1, victim names T2) come from Qwen3-4B, a model of the same
-family; this rater is a model-agreement check, not an independent human audit.
 
     .venv-embed/bin/python scripts/www_llm_annotator.py [--tasks T1,T2,T3,T4] [--limit N]
 """
