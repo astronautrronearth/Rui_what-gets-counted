@@ -1,0 +1,246 @@
+item_id,match_type,candidate,registry,event_id,double
+M001,exact,Johnson City Honda,Johnson City Honda,rl:US:Global Secret Group:johnson city honda:2026-08-25,False
+M002,fuzzy,bauman law p c,bauman law,rl:US:qilin:bauman law:2026-09-05,False
+M003,exact,Bruker Corp.,Bruker Corporation,rl:US:metaencryptor:bruker:2026-09-21,True
+M004,exact,Mankatoclinic.Com,mankatoclinic.com,rl:US:chaos:mankatoclinic.com:2026-09-10,False
+M005,exact,The Cecilian Bank,The Cecilian Bank,rl:US:Storm:the cecilian bank:2026-08-22,False
+M006,exact,Www.Renorefractories.Com,www.renorefractories.com,rl:US:incransom:renorefractories.com:2026-08-31,False
+M007,fuzzy,marlin hvac,marlinhvac,rl:US:safepay:marlinhvac.com:2026-09-15,False
+M008,fuzzy,dentist in new britain,dentist in new britain ct,rl:US:Dark Project:dentist in new britain ct:2026-08-25,False
+M009,exact,Interim HealthCare,Interim HealthCare,rl:US:genesis:interim healthcare:2026-08-10,True
+M010,fuzzy,newman tractor,newmantractor,rl:US:threeam:newmantractor.com:2026-09-21,False
+M011,fuzzy,wireco worldgroup,wireco,rl:US:qilin:wireco:2026-08-26,False
+M012,fuzzy,goldfarb,wiggins childs pantazis fisher goldfarb,rl:US:insomnia:wiggins childs pantazis fisher goldfarb:2026-09-15,True
+M013,fuzzy,eso partners cpa,esopartnerscpa,rl:US:ZaWoo:esopartnerscpa.com:2026-08-18,False
+M014,fuzzy,the city of mitchell,city of mitchell,rl:US:Storm:city of mitchell:2026-08-23,False
+M015,fuzzy,new century ophthalmology pllc,new century ophthalmology,rl:US:incransom:new century ophthalmology:2026-08-31,False
+M016,fuzzy,handytrac,handytrac greystar az warning,rl:US:ShadowByt3$:handytrac greystar az warning:2026-09-16,False
+M017,fuzzy,national salvage service,national salvage,rl:US:Storm:national salvage:2026-08-24,True
+M018,fuzzy,shaheen law,shaheen law richmond virginia usa,rl:US:Deadlock:shaheen law plc richmond virginia usa:2026-08-24,False
+M019,fuzzy,ormond beach,ormond beach florida,rl:US:Wallstreet:ormond beach florida:2026-09-02,False
+M020,fuzzy,petrocare,petrocare construction,rl:CA:Storm:petrocare construction:2026-09-02,False
+M021,fuzzy,johnson city honda dynamic automotive,johnson city honda,rl:US:Global Secret Group:johnson city honda:2026-08-25,False
+M022,fuzzy,greystar,handytrac greystar az warning,rl:US:ShadowByt3$:handytrac greystar az warning:2026-09-16,False
+M023,fuzzy,kovo,kovo healthtech,rl:US:pear:kovo healthtech:2026-09-02,False
+M024,exact,EMS1R,EMS1R,rl:US:direwolf:ems1r:2026-09-08,True
+M025,fuzzy,bernath rosenberg p c,bernath rosenberg,rl:US:genesis:bernath rosenberg:2026-09-13,False
+M026,fuzzy,pantherx rare pharmacy,pantherx rare,rl:US:Storm:pantherx rare:2026-09-14,False
+M027,exact,Southern Metals Company,Southern Metals Company,rl:US:Storm:southern metals:2026-08-10,False
+M028,fuzzy,hatch communications,hatch,rl:GB:settra:hatch.group:2026-08-27,False
+M029,fuzzy,the city of fort smith arkansas,city of fort smith arkansas,rl:US:interlock:city of fort smith arkansas:2026-09-15,True
+M030,fuzzy,kjla tv 57,kjla,rl:US:Global Secret Group:kjla:2026-09-21,False
+M031,fuzzy,eassist,eassist dental solutions,rl:US:direwolf:eassist dental solutions:2026-09-06,False
+M032,fuzzy,hospitality health er,hospitality health er longview,rl:US:genesis:hospitality health er longview:2026-08-20,True
+M033,fuzzy,health,mission pet health,rl:US:direwolf:mission pet health:2026-09-05,True
+M034,exact,McCarthy Tire Service,McCarthy Tire Service,rl:US:Storm:mccarthy tire service:2026-09-14,False
+M035,fuzzy,quest search,quest,rl:US:anubis:quest:2026-09-18,False
+M036,fuzzy,health,metropolitan community health services,rl:US:insomnia:metropolitan community health services:2026-08-24,True
+M037,exact,City of Fort Smith Arkansas,City of Fort Smith Arkansas,rl:US:interlock:city of fort smith arkansas:2026-09-15,False
+M038,exact,hoyletanner.com,hoyletanner.com,rl:GB:BrainCipher:hoyletanner.com:2026-09-17,False
+M039,fuzzy,united,united federation of teachers,rl:US:N0n:united federation of teachers:2026-09-18,False
+M040,exact,The State Bank,The State Bank,rl:US:Storm:the state bank:2026-09-18,True
+M041,exact,Cedars Foods,Cedars Foods,rl:US:thegentlemen:cedars foods:2026-09-14,True
+M042,fuzzy,manders decorating,manders,rl:GB:akira:manders:2026-09-16,False
+M043,fuzzy,state,arizona state university asu,rl:US:direwolf:arizona state university asu:2026-08-17,False
+M044,exact,JMS Building Corp.,jms building corporation,rl:US:incransom:jms building:2026-09-10,False
+M045,fuzzy,health,windrose health network,rl:US:Storm:windrose health network:2026-08-16,False
+M046,fuzzy,macallister machinery,macallister,rl:GB:chaos:macallister.com:2026-08-28,False
+M047,exact,A-Plus Software Limited,A-Plus Software Limited,rl:GB:ShadowByt3$:a plus software:2026-08-25,False
+M048,fuzzy,fort smith arkansas,city of fort smith arkansas,rl:US:interlock:city of fort smith arkansas:2026-09-15,False
+M049,fuzzy,association régionale pour la formation professionnelle automobile aforpa,aforpa,rl:FR:thegentlemen:aforpa:2026-09-14,True
+M050,fuzzy,beckman coulter diagnostics,beckman coulter,rl:US:metaencryptor:beckman coulter:2026-09-17,True
+M051,fuzzy,alumax comercio de aluminios ltda,alumax,rl:US:akira:alumax:2026-08-28,False
+M052,fuzzy,hospital,pinnacle hospital,rl:US:Storm:pinnacle hospital:2026-08-21,False
+M053,exact,Medevolve.com,medevolve.com,rl:US:settra:medevolve.com:2026-08-11,True
+M054,fuzzy,glasfloss industries,glasfloss,rl:US:chaos:glasfloss.com:2026-09-14,False
+M055,exact,mat-holdings-inc,mat-holdings-inc,rl:US:iah6477:mat:2026-08-26,False
+M056,fuzzy,bokfinancial,bok financial,rl:US:shinyhunters:bok financial:2026-08-22,True
+M057,fuzzy,law firm,norwood law firm,rl:US:dragonforce:norwood law firm:2026-09-04,True
+M058,fuzzy,spirit cultural exchange,spirit cultural exchange us,rl:US:kazu:spirit cultural exchange us:2026-09-05,False
+M059,fuzzy,quest executive search and staffing solutions,quest,rl:US:anubis:quest:2026-09-18,False
+M060,fuzzy,schneider s computing websites,schneider s computing,rl:CA:arcusmedia:schneider s computing:2026-09-19,False
+M061,fuzzy,holland and knight,holland knight,rl:US:SilentRansomGroup:holland knight:2026-09-01,False
+M062,fuzzy,multiver lt ée,multiver ltée,rl:CA:incransom:multiver:2026-09-01,False
+M063,fuzzy,henry pratt,henrypratt,rl:US:clop:henrypratt.com:2026-09-10,True
+M064,fuzzy,psc industries,pscindustries,rl:US:lockbit5:pscindustries.com:2026-09-04,False
+M065,fuzzy,oteis conseil and ingénierie,oteis conseil ingénierie,rl:FR:coinbasecartel:oteis conseil ingénierie:2026-08-22,False
+M066,fuzzy,springfield,springfield public schools,rl:US:interlock:springfield public schools:2026-09-15,False
+M067,fuzzy,handytrac greystar,handytrac greystar litchfield park az,rl:US:ShadowByt3$:handytrac greystar litchfield park az:2026-09-15,True
+M068,fuzzy,commuter air technology,metrea commuter air technology,rl:US:aurora:metrea commuter air technology:2026-09-05,False
+M069,fuzzy,partners,argentem creek partners investment firm,rl:US:N0n:argentem creek partners investment firm:2026-09-18,False
+M070,exact,NFM Lending,NFM Lending,rl:US:interlock:nfm lending:2026-09-07,True
+M071,exact,Alabama Woman's Health Care,Alabama Woman's Health Care,rl:US:emperador:alabama woman s health care:2026-09-20,True
+M072,fuzzy,lightcast solutions canada,lightcast,rl:US:direwolf:lightcast:2026-09-07,False
+M073,exact,Prefix Corp,Prefix Corp,rl:US:securotrop:prefix:2026-09-18,False
+M074,fuzzy,bitsandpieces,gardensalive bitsandpieces iselinursery weeksroses esm,rl:US:embargo:gardensalive com bitsandpieces com iselinursery local weeksr:2026-09-09,True
+M075,fuzzy,geeky bunch,geekybunch,rl:US:unsafe:geekybunch.com:2026-09-14,False
+M076,fuzzy,professional victim,professional,rl:US:qilin:professional:2026-08-21,False
+M077,exact,MSM Unify: Global Education Platform - CA (🇨🇦),MSM Unify: Global Education Platform - CA,rl:CA:kazu:msm unify global education platform ca:2026-09-07,False
+M078,fuzzy,relycomply,relycomply aml platform,rl:GB:direwolf:relycomply aml platform:2026-09-09,False
+M079,fuzzy,partners,chicago partners wealth advisors,rl:US:Storm:chicago partners wealth advisors:2026-09-01,False
+M080,exact,cullottalaw.com,cullottalaw.com,rl:US:incransom:cullottalaw.com:2026-09-09,False
+M081,fuzzy,gsac,gsac auto financing,rl:US:Storm:gsac auto financing:2026-09-02,False
+M082,exact,Our Hospice Of South Central Indiana,Our Hospice Of South Central Indiana,rl:US:Storm:our hospice of south central indiana:2026-08-26,False
+M083,fuzzy,city of mitchell sd,city of mitchell,rl:US:Storm:city of mitchell:2026-08-23,False
+M084,fuzzy,frisby roofing construction,frisby roofing frisby construction,rl:US:medusalocker:frisby roofing frisby construction:2026-09-12,False
+M085,fuzzy,flexmaster canada,flexmaster,rl:CA:Storm:flexmaster:2026-09-07,False
+M086,fuzzy,mcnish steel,mcnishsteel,rl:CA:safepay:mcnishsteel.com:2026-09-08,False
+M087,fuzzy,ben leeds properties in the uk,ben leeds properties,rl:GB:ShadowByt3$:ben leeds properties:2026-09-07,True
+M088,fuzzy,bernath and rosenberg,bernath rosenberg,rl:US:genesis:bernath rosenberg:2026-09-13,False
+M089,fuzzy,palmetto eye institute,palmettoeyeinstitute,rl:US:safepay:palmettoeyeinstitute.com:2026-09-08,False
+M090,exact,Medical Department Store,Medical Department Store,rl:US:dragonforce:medical department store:2026-09-10,False
+M091,fuzzy,appliancefactory,www appliancefactory,rl:US:incransom:appliancefactory.com:2026-09-17,True
+M092,exact,hoaattorneys.com,hoaattorneys.com,rl:US:lockbit5:hoaattorneys.com:2026-08-31,False
+M093,exact,Country-Wide Insurance,Country-Wide Insurance,rl:US:Booba Project:country wide insurance:2026-08-24,False
+M094,fuzzy,handytrac greystar az,handytrac greystar az warning,rl:US:ShadowByt3$:handytrac greystar az warning:2026-09-16,False
+M095,fuzzy,commission de la construction du québec,commission de la construction du quebec ccq,rl:CA:qilin:commission de la construction du quebec ccq:2026-09-04,False
+M096,exact,Melitron Corp.,Melitron,rl:CA:Storm:melitron:2026-09-07,True
+M097,fuzzy,greystar,handytrac greystar litchfield park az,rl:US:ShadowByt3$:handytrac greystar litchfield park az:2026-09-15,False
+M098,fuzzy,health,photon health,rl:US:direwolf:photon health:2026-08-19,False
+M099,exact,Swagelok,swagelok,rl:US:iah6477:swagelok:2026-08-29,False
+M100,fuzzy,wellness partners network,wellness partners network combined revenue,rl:US:incransom:wellness partners network combined revenue:2026-09-07,False
+M101,fuzzy,dublin city schools,dublin city schools ga,rl:US:Eclipse:dublin city schools ga:2026-09-14,False
+M102,fuzzy,lightcast europe,lightcast,rl:US:direwolf:lightcast:2026-09-07,False
+M103,fuzzy,g and s technologies,g s technologies,rl:US:qilin:g s technologies:2026-09-05,False
+M104,fuzzy,alphaplantes,www alphaplantes,rl:CA:krybit:alphaplantes.com:2026-09-01,False
+M105,fuzzy,maryann kriger dds p a,maryann kriger,rl:US:incransom:maryann kriger:2026-09-21,False
+M106,exact,Spirit Cultural Exchange - US,Spirit Cultural Exchange - US,rl:US:kazu:spirit cultural exchange us:2026-09-05,True
+M107,fuzzy,hospital,cedar county memorial hospital,rl:US:Wallstreet:cedar county memorial hospital:2026-08-31,False
+M108,exact,Multiver Ltée,Multiver Ltée,rl:CA:incransom:multiver:2026-09-01,False
+M109,exact,"Cyrusone, Llc.","CyrusOne, LLC.",rl:US:shinyhunters:cyrusone:2026-08-23,True
+M110,fuzzy,hattiesburg eye clinic p a,hattiesburg eye clinic,rl:US:thegentlemen:hattiesburg eye clinic:2026-09-14,False
+M111,fuzzy,fanatics,fanatics global sports commerce platform,rl:US:N0n:fanatics global sports commerce platform:2026-09-20,False
+M112,exact,Grayson Rural Electric Cooperative,Grayson Rural Electric Cooperative,rl:US:qilin:grayson rural electric cooperative:2026-09-02,True
+M113,fuzzy,town of sutton,town of sutton massachusetts,rl:US:global:town of sutton massachusetts:2026-09-12,False
+M114,fuzzy,massey stotser nichols p c,massey stotser nichols,rl:US:insomnia:massey stotser nichols:2026-09-14,False
+M115,fuzzy,springfield public schools massachusetts,springfield public schools,rl:US:interlock:springfield public schools:2026-09-15,False
+M116,fuzzy,interim healthcare,interim healthcare head office,rl:US:anubis:interim healthcare head office:2026-08-21,False
+M117,fuzzy,gardensalive,gardensalive bitsandpieces iselinursery weeksroses esm,rl:US:embargo:gardensalive com bitsandpieces com iselinursery local weeksr:2026-09-09,False
+M118,fuzzy,bayview real estate,bayview real estate warning,rl:US:ShadowByt3$:bayview real estate warning:2026-08-28,False
+M119,fuzzy,fisher,wiggins childs pantazis fisher goldfarb,rl:US:insomnia:wiggins childs pantazis fisher goldfarb:2026-09-15,False
+M120,fuzzy,cecilian bank,the cecilian bank,rl:US:Storm:the cecilian bank:2026-08-22,False
+M121,fuzzy,iselinursery,gardensalive bitsandpieces iselinursery weeksroses esm,rl:US:embargo:gardensalive com bitsandpieces com iselinursery local weeksr:2026-09-09,False
+M122,exact,howardlumber.com,howardlumber.com,rl:US:settra:howardlumber.com:2026-08-24,False
+M123,fuzzy,renorefractories,www renorefractories,rl:US:incransom:renorefractories.com:2026-08-31,False
+M124,fuzzy,manders companies,manders,rl:GB:akira:manders:2026-09-16,True
+M125,fuzzy,ms walker,mswalker,rl:US:chaos:mswalker.com:2026-08-25,False
+M126,fuzzy,wiggins,wiggins childs pantazis fisher goldfarb,rl:US:insomnia:wiggins childs pantazis fisher goldfarb:2026-09-15,False
+M127,fuzzy,health,nutex health,rl:US:thegentlemen:nutex health:2026-08-31,False
+M128,fuzzy,kyodo shipping and trading usa,kyodo usa,rl:US:akira:kyodo usa:2026-09-09,False
+M129,fuzzy,northwest trophy awards,northwest trophy,rl:US:thegentlemen:northwest trophy:2026-08-28,True
+M130,fuzzy,childs,wiggins childs pantazis fisher goldfarb,rl:US:insomnia:wiggins childs pantazis fisher goldfarb:2026-09-15,False
+M131,fuzzy,união de ensino superior do iguaçu ltda,superior,rl:US:Storm:superior ag:2026-09-01,True
+M132,fuzzy,wmi emporium,wmiemporium,rl:US:krybit:wmiemporium.com:2026-08-26,False
+M133,exact,PawlyClinic: Digital Veterinary Care Platform,PawlyClinic: Digital Veterinary Care Platform,rl:US:kazu:pawlyclinic digital veterinary care platform:2026-08-23,False
+M134,fuzzy,state bank,the state bank,rl:US:Storm:the state bank:2026-09-18,False
+M135,fuzzy,jones little cpa s,jones little cpas,rl:US:Dark Project:jones little cpas:2026-08-24,False
+M136,fuzzy,howard lumber,howardlumber,rl:US:settra:howardlumber.com:2026-08-24,False
+M137,fuzzy,handytrac greystar,handytrac greystar az warning,rl:US:ShadowByt3$:handytrac greystar az warning:2026-09-16,True
+M138,fuzzy,new britain ct dentist,dentist in new britain ct,rl:US:Dark Project:dentist in new britain ct:2026-08-25,True
+M139,exact,Lawter Inc,Lawter,rl:US:medusalocker:lawter:2026-09-01,False
+M140,exact,G&S Technologies,G&S Technologies,rl:US:qilin:g s technologies:2026-09-05,True
+M141,fuzzy,huskies,in the of huskies,rl:CA:qilin:in the of huskies:2026-09-16,False
+M142,exact,Greenberg Traurig,Greenberg Traurig,rl:US:SilentRansomGroup:greenberg traurig:2026-09-02,False
+M143,exact,"Central Florida Civil, LLC",Central Florida Civil LLC,rl:US:Orova:central florida civil:2026-08-25,True
+M144,fuzzy,florida dmv,state of florida dmv,rl:US:shinyhunters:state of florida dmv:2026-09-07,False
+M145,fuzzy,the sole proprietor,the sole,rl:GB:thegentlemen:the sole:2026-08-31,False
+M146,fuzzy,crystalpharmatech,crystal pharmatech,rl:US:Eclipse:crystal pharmatech:2026-08-21,True
+M147,fuzzy,commission de la construction du quebec,commission de la construction du quebec ccq,rl:CA:qilin:commission de la construction du quebec ccq:2026-09-04,True
+M148,fuzzy,dorfman abrams music,dorfman abrams music p c,rl:US:genesis:dorfman abrams music p c:2026-09-13,False
+M149,fuzzy,partners,wellness partners network combined revenue,rl:US:incransom:wellness partners network combined revenue:2026-09-07,False
+M150,exact,Furnished Quarters,Furnished Quarters,rl:US:Dark Project:furnished quarters:2026-08-24,False
+M151,fuzzy,health,hospitality health er longview,rl:US:genesis:hospitality health er longview:2026-08-20,False
+M152,exact,FactoryFive,FactoryFive,rl:US:metaencryptor:factoryfive:2026-08-23,False
+M153,fuzzy,frisby construction,frisby roofing frisby construction,rl:US:medusalocker:frisby roofing frisby construction:2026-09-12,False
+M154,exact,Johnson Investment Counsel,Johnson Investment Counsel,rl:US:Storm:johnson investment counsel:2026-09-18,True
+M155,fuzzy,us professional services firm,professional,rl:US:qilin:professional:2026-08-21,True
+M156,fuzzy,harley davidson motor,harley davidson,rl:US:clop:harley-davidson.com:2026-09-10,False
+M157,exact,ATF,ATF,rl:US:qilin:atf:2026-08-26,True
+M158,fuzzy,apc resolve law,resolve law,rl:US:qilin:resolve law:2026-09-15,False
+M159,fuzzy,msm unify,msm unify global education platform ca,rl:CA:kazu:msm unify global education platform ca:2026-09-07,False
+M160,exact,Wellness Partners Network(Combined Revenue),Wellness Partners network(combined revenue),rl:US:incransom:wellness partners network combined revenue:2026-09-07,True
+M161,fuzzy,state,state of florida dmv,rl:US:shinyhunters:state of florida dmv:2026-09-07,True
+M162,fuzzy,l a poco architects,lapoco architects,rl:US:qilin:lapoco architects:2026-08-29,False
+M163,exact,First Secure Community Bank,First Secure Community Bank,rl:US:Storm:first secure community bank:2026-09-18,False
+M164,fuzzy,health,colla health,rl:US:direwolf:colla health:2026-08-15,False
+M165,fuzzy,caridro val de loire sarl,caridro val de loire,rl:FR:qilin:caridro val de loire:2026-09-13,False
+M166,fuzzy,southern veterinary partners mission pet health,mission pet health,rl:US:direwolf:mission pet health:2026-09-05,False
+M167,fuzzy,greater suburban acceptance gsac,gsac,rl:US:Storm:gsac:2026-09-01,False
+M168,fuzzy,rug and home,rug home,rl:US:rhysida:rug home:2026-09-07,False
+M169,fuzzy,healthcare,imperial healthcare solutions,rl:US:qilin:imperial healthcare solutions:2026-09-11,True
+M170,fuzzy,technology,technology dynamics,rl:US:Storm:technology dynamics:2026-09-08,False
+M171,exact,myLaurel,myLaurel,rl:US:direwolf:mylaurel:2026-09-06,False
+M172,fuzzy,sancity,sancity soft touch,rl:US:Vexy Ransomware:sancity soft touch:2026-09-04,False
+M173,fuzzy,technology,metrea commuter air technology,rl:US:aurora:metrea commuter air technology:2026-09-05,False
+M174,fuzzy,play inglewood golf,inglewood golf,rl:CA:play:inglewood golf:2026-09-18,False
+M175,exact,La Maison Des Travaux,La Maison Des Travaux,rl:FR:qilin:la maison des travaux:2026-08-29,False
+M176,exact,Mission Pet Health,Mission Pet Health,rl:US:direwolf:mission pet health:2026-09-05,False
+M177,fuzzy,brentwood country club los angeles,brentwood country club,rl:US:akira:brentwood country club:2026-09-08,False
+M178,fuzzy,norwood law firm p c,norwood law firm,rl:US:dragonforce:norwood law firm:2026-09-04,False
+M179,fuzzy,financière d uzès s a,financière d uzès,rl:FR:Panzer:financière d uzès:2026-09-08,False
+M180,fuzzy,education solutions,total education solutions,rl:US:Wallstreet:total education solutions:2026-09-01,False
+M181,fuzzy,superior resources cooperative,superior,rl:US:Storm:superior ag:2026-09-01,False
+M182,fuzzy,metalware,www metalware,rl:CA:krybit:metalware.ca:2026-09-12,True
+M183,fuzzy,nottingham trent university,knottingham trent university,rl:GB:ShadowByt3$:knottingham trent university:2026-08-25,False
+M184,fuzzy,integrated health systems in the us,integrated health systems,rl:US:coinbasecartel:integrated health systems:2026-08-22,False
+M185,fuzzy,grunthal welding and supplies,grunthal welding supplies,rl:CA:play:grunthal welding supplies:2026-09-10,False
+M186,fuzzy,schneiders computing,schneider s computing,rl:CA:arcusmedia:schneider s computing:2026-09-19,True
+M187,exact,LGG Advisors,LGG Advisors,rl:GB:qilin:lgg advisors:2026-08-27,False
+M188,fuzzy,hospice of south central indiana,our hospice of south central indiana,rl:US:Storm:our hospice of south central indiana:2026-08-26,False
+M189,fuzzy,manufacturing,master manufacturing,rl:US:Dark Project:master manufacturing:2026-09-07,True
+M190,fuzzy,memsic semiconductor,memsic,rl:US:abyss:memsic:2026-08-26,False
+M191,exact,Displaydata Limited,Displaydata,rl:GB:qilin:displaydata:2026-08-27,False
+M192,fuzzy,health,integrated health systems,rl:US:coinbasecartel:integrated health systems:2026-08-22,False
+M193,fuzzy,commission de la construction du québec,commission de la construction du quebec,rl:CA:qilin:commission de la construction du quebec:2026-09-01,False
+M194,fuzzy,handytrac greystar az,handytrac greystar litchfield park az,rl:US:ShadowByt3$:handytrac greystar litchfield park az:2026-09-15,True
+M195,fuzzy,sad s intérim,sad s interim,rl:FR:rhysida:sad s interim:2026-09-08,True
+M196,fuzzy,lichtvision,www lichtvision,rl:GB:incransom:lichtvision.com:2026-08-31,False
+M197,exact,Providence Investments,Providence Investments,rl:US:qilin:providence investments:2026-08-27,False
+M198,fuzzy,pantazis,wiggins childs pantazis fisher goldfarb,rl:US:insomnia:wiggins childs pantazis fisher goldfarb:2026-09-15,False
+M199,exact,WireCo,WireCo,rl:US:qilin:wireco:2026-08-26,False
+M200,exact,"ScrubaDub Auto Wash Centers, Inc.",ScrubaDub Auto Wash Centers,rl:US:akira:scrubadub auto wash centers:2026-09-02,False
+M201,fuzzy,jinny,jinny beauty supply,rl:US:aurora:jinny beauty supply:2026-09-07,True
+M202,fuzzy,pappyjoe,pappyjoe healthcare management system,rl:US:kazu:pappyjoe healthcare management system:2026-08-23,False
+M203,fuzzy,norwood law,norwood law firm,rl:US:dragonforce:norwood law firm:2026-09-04,False
+M204,fuzzy,pawlyclinic,pawlyclinic digital veterinary care platform,rl:US:kazu:pawlyclinic digital veterinary care platform:2026-08-23,False
+M205,exact,Mb Associates,MB Associates,rl:GB:thegentlemen:mb associates:2026-08-28,False
+M206,fuzzy,acima credit,acima,rl:US:iah6477:acima:2026-08-20,True
+M207,fuzzy,commission de la construction du quebec ccq,commission de la construction du quebec,rl:CA:qilin:commission de la construction du quebec:2026-09-01,True
+M208,fuzzy,gilco,gilco scaffolding,rl:GB:qilin:gilco scaffolding:2026-09-13,False
+M209,exact,Sports Endeavors,Sports Endeavors,rl:US:spacebears:sports endeavors:2026-09-04,True
+M210,fuzzy,inglewood golf curling club,inglewood golf,rl:CA:play:inglewood golf:2026-09-18,True
+M211,fuzzy,schwartz giannini lantsberger adamson,schwartz giannini lantsberger adamson sgla,rl:US:spacebears:schwartz giannini lantsberger adamson sgla:2026-09-04,False
+M212,fuzzy,chip 1 exchange kg,chip 1 exchange,rl:US:aurora:chip 1 exchange:2026-09-02,False
+M213,fuzzy,metrea,metrea commuter air technology,rl:US:aurora:metrea commuter air technology:2026-09-05,False
+M214,fuzzy,the heart center of memphis,theheartcenterofmemphis,rl:US:lockbit5:theheartcenterofmemphis.com:2026-08-27,False
+M215,exact,Proampac,proampac,rl:US:iah6477:proampac:2026-08-26,False
+M216,exact,"ReliaQuest, LLC","ReliaQuest, LLC",rl:US:shinyhunters:reliaquest:2026-08-23,False
+M217,fuzzy,cullota law,cullottalaw,rl:US:incransom:cullottalaw.com:2026-09-09,False
+M218,fuzzy,alaska joint electrical apprenticeship training trust,alaska electrical apprenticeship,rl:US:qilin:alaska electrical apprenticeship:2026-09-08,False
+M219,exact,Foremost Mfg,Foremost Mfg,rl:US:qilin:foremost mfg:2026-09-14,False
+M220,fuzzy,weeksroses,gardensalive bitsandpieces iselinursery weeksroses esm,rl:US:embargo:gardensalive com bitsandpieces com iselinursery local weeksr:2026-09-09,True
+M221,fuzzy,town of andover ma,andover,rl:US:Wallstreet:andover:2026-08-30,False
+M222,fuzzy,mankato clinic,mankatoclinic,rl:US:chaos:mankatoclinic.com:2026-09-10,False
+M223,fuzzy,jack henry,jack henry associates,rl:US:shinyhunters:jack henry associates:2026-08-28,False
+M224,fuzzy,hyundai,colonial hyundai,rl:US:qilin:colonial hyundai:2026-09-05,False
+M225,fuzzy,handytrac,handytrac greystar litchfield park az,rl:US:ShadowByt3$:handytrac greystar litchfield park az:2026-09-15,False
+M226,fuzzy,town of andover,andover,rl:US:Wallstreet:andover:2026-08-30,False
+M227,fuzzy,evergen bio,evergenbio,rl:US:chaos:evergenbio.com:2026-09-06,True
+M228,fuzzy,aei consultants,aeiconsultants,rl:US:BrainCipher:aeiconsultants.com:2026-08-31,False
+M229,fuzzy,young injury law in the us,young injury law,rl:US:cry0:young injury law:2026-09-19,True
+M230,fuzzy,precision vehicle,precision vehicle logistics,rl:US:direwolf:precision vehicle logistics:2026-09-07,False
+M231,fuzzy,premier lighting and controls,premier lighting controls,rl:US:Gammax:premier lighting controls:2026-09-18,False
+M232,exact,eAssist Dental Solutions,eAssist Dental Solutions,rl:US:direwolf:eassist dental solutions:2026-09-06,False
+M233,fuzzy,wellness partners,wellness partners network combined revenue,rl:US:incransom:wellness partners network combined revenue:2026-09-07,False
+M234,fuzzy,kendallhunt,www kendallhunt,rl:US:incransom:kendallhunt.com:2026-09-18,False
+M235,fuzzy,technology,kingston technology,rl:US:everest:kingston technology:2026-08-20,True
+M236,exact,"Jones, Little & Co., CPAs, LLP","Jones, Little & Co., CPAs, LLP",rl:US:Dark Project:jones little cpas:2026-08-24,False
+M237,fuzzy,partners,marlborough partners,rl:GB:anubis:marlborough partners:2026-09-02,False
+M238,fuzzy,university,university of san francisco,rl:US:thegentlemen:university of san francisco:2026-09-07,False
+M239,fuzzy,clinical associates of the finger lakes,clinical associates of the finger lakes cafl,rl:US:Barracuda:clinical associates of the finger lakes cafl:2026-08-23,True
+M240,fuzzy,first secure bank trust,first secure bank and trust,rl:US:Storm:first secure bank and trust:2026-09-18,False
+M241,fuzzy,argentem creek partners,argentem creek partners investment firm,rl:US:N0n:argentem creek partners investment firm:2026-09-18,False
+M242,fuzzy,nutex,nutex health,rl:US:thegentlemen:nutex health:2026-08-31,False
+M243,fuzzy,xpera risk mitigation investigation,xpera,rl:CA:BrainCipher:xpera.ca:2026-09-17,True
+M244,exact,hccd-construction.com,hccd-construction.com,rl:US:krybit:hccd-construction.com:2026-09-01,True
+M245,fuzzy,gsac auto financing,gsac,rl:US:Storm:gsac:2026-09-01,True

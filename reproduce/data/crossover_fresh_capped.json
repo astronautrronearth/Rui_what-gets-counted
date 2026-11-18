@@ -1,0 +1,54 @@
+{
+ "note": "exploratory capped rule; updated registry snapshot (2026-11-15), original 8 evaluation days; from scripts/www_crossover_fresh_capped_mature.py",
+ "b1": {
+  "claims": 3.0,
+  "ties_95": [
+   3.0,
+   3.0
+  ],
+  "vs_posts": 1.0,
+  "vs_posts_ci": [
+   -2.4,
+   4.28
+  ],
+  "vs_random": 1.86,
+  "vs_random_ci": [
+   -0.36,
+   4.54
+  ]
+ },
+ "b5": {
+  "claims": 14.76,
+  "ties_95": [
+   12.0,
+   18.0
+  ],
+  "vs_posts": 1.3,
+  "vs_posts_ci": [
+   0.34,
+   2.78
+  ],
+  "vs_random": 8.98,
+  "vs_random_ci": [
+   2.08,
+   16.86
+  ]
+ },
+ "b10": {
+  "claims": 31.92,
+  "ties_95": [
+   28.0,
+   37.775
+  ],
+  "vs_posts": 1.5,
+  "vs_posts_ci": [
+   0.46,
+   2.78
+  ],
+  "vs_random": 18.88,
+  "vs_random_ci": [
+   4.82,
+   33.22
+  ]
+ }
+}

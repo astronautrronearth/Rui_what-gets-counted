@@ -1,0 +1,22 @@
+{
+ "manifest_sha256": "d2fe0a9e494bf6814d6d03788515dccd030f7cadd9d047acea1e9dc946e7a6ca",
+ "full_runs": [
+  475
+ ],
+ "derivation_version": "edges_v1",
+ "n_seeds": 2631,
+ "n_edges": 5988,
+ "hash": "sha256(salt||did)[:16]",
+ "public_handle_types": [
+  "intel_feed_amplified",
+  "intel_feed_raw",
+  "news_syndicated",
+  "news_with_reach",
+  "org_reaching",
+  "org_unheard"
+ ],
+ "feed_behavioral_v1": "broadcast.detect_broadcast_authors(label_version=llm_v2d), defaults",
+ "feed_volume_only": ">=5 relevant llm_v2d posts on >=4 days (outcome-free)",
+ "observed": "thread and quote endpoints success/partial",
+ "edge_selection": "edges from the run whose thread outcome is used (interaction_descriptive.load)"
+}

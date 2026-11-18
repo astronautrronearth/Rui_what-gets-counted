@@ -1,0 +1,19 @@
+{
+ "note": "author audit, 2026-11-15, blind to rules",
+ "C_retrieved_exact": {
+  "n": 172,
+  "same_organisation": 172,
+  "no": 0,
+  "unsure": 0
+ },
+ "C2_unflagged_extraction": {
+  "n": 40,
+  "precision_correct": 11,
+  "precision_n": 19,
+  "unsure": 1,
+  "victim_posts": 12,
+  "victim_posts_found": 11,
+  "none_stratum_n": 20,
+  "none_stratum_missed": 0
+ }
+}

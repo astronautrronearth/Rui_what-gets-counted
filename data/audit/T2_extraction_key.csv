@@ -1,0 +1,151 @@
+item_id,post_id,extracted,double
+E001,84822,(none extracted),False
+E002,93469,Practice Management,False
+E003,111310,Clopt,True
+E004,26682,(none extracted),False
+E005,20261,"群雅電子股份有限公司; Chung Ya Electronics Co., Ltd.",True
+E006,54374,Berlin,False
+E007,20259,ixa systems SA,False
+E008,28977,All Steel Products,False
+E009,54501,Rug & Home,True
+E010,49433,(none extracted),False
+E011,54520,Körber,True
+E012,97181,(none extracted),True
+E013,114267,(none extracted),False
+E014,15922,Kling Automaten,False
+E015,56,BOK Financial,True
+E016,16031,(none extracted),False
+E017,101465,Cedar County Memorial Hospital,False
+E018,89182,Stöcklin Möbel AG,False
+E019,84874,Bravo Group,False
+E020,67765,(none extracted),False
+E021,75906,(none extracted),True
+E022,4854,Brookview Financial,False
+E023,2592,PappyJoe healthcare management system,True
+E024,71909,Cisco,False
+E025,104,Abacus Advisors,True
+E026,15979,G... T...,False
+E027,67529,I2K2 Networks,False
+E028,93368,(none extracted),True
+E029,84933,Alchin Long Group,False
+E030,89090,Blossomland Accounting,False
+E031,32774,Berlin state government,False
+E032,4932,Meridian Forest Services,True
+E033,61661,(none extracted),False
+E034,49370,(none extracted),False
+E035,8172,copcp.com,False
+E036,75888,eracm.fr,False
+E037,4788,Boustead International Heaters,False
+E038,15912,(none extracted),True
+E039,97349,Pharmasave,False
+E040,81186,Dublin City Schools,True
+E041,57458,Reichenau.at,False
+E042,67683,(none extracted),False
+E043,68421,(none extracted),False
+E044,49172,Dubai,False
+E045,40814,Edgechem Jamaica Ltd.,False
+E046,81,OTEIS Conseil & Ingénierie,True
+E047,61523,(none extracted),True
+E048,29002,Super Systems Inc,False
+E049,155,Yad Vashem Museum,False
+E050,93355,Silicon Integrated Systems,True
+E051,97331,United Federation of Teachers,True
+E052,78821,(none extracted),False
+E053,81089,(none extracted),True
+E054,61566,Portable Intelligence Inc,False
+E055,12095,California Truck Equipment,False
+E056,81193,(none extracted),False
+E057,101444,Quy Nhon University,False
+E058,114046,U.S. Electrical Services; Wiedenbach Brown,False
+E059,71657,Ukrainian National,False
+E060,40815,gov; technology; hotels,True
+E061,262,(none extracted),True
+E062,54371,vsbattorneys.co.za,True
+E063,84926,our school,False
+E064,54556,"Benshaw, Inc.",False
+E065,231,(none extracted),True
+E066,11887,"Next Level Medical, Llc",False
+E067,28885,Ccsperfusion.Com,False
+E068,81244,(none extracted),False
+E069,29221,"Ishbia & Gagleard, P.C.",True
+E070,28919,R L Fine Chem Pvt. Ltd.,True
+E071,67681,"George Cameron Nash, Inc.",False
+E072,29260,Bartels B.V.,False
+E073,24051,TERRA***; MON****,False
+E074,36645,Seasia Infotech,False
+E075,20362,Valley Health Team,False
+E076,54600,"Hologic, Inc.",False
+E077,49290,G&S Technologies,False
+E078,12066,(none extracted),False
+E079,32896,Transportes Montejo S.A.S.,True
+E080,24103,"Oilquip, Inc",False
+E081,4983,A&E; SMA Design,False
+E082,81209,Cedar's Mediterranean Foods Inc.,False
+E083,97492,(none extracted),False
+E084,26769,acqbuilt.com,False
+E085,85032,Geieg,True
+E086,49390,(none extracted),False
+E087,11971,Coinbase Cartel,False
+E088,36713,Marlborough Partners,True
+E089,23878,Neumaticos Corral S.A.,True
+E090,183,CRI Electric,False
+E091,97458,(none extracted),False
+E092,40811,Edgechem Jamaica Ltd.,True
+E093,81215,(none extracted),True
+E094,97399,Roan Luxury Camping Holidays; Kendall Hunt Publishing Company,False
+E095,97416,(none extracted),False
+E096,61649,"GT Distributors, Inc.",True
+E097,104916,Bravox,False
+E098,36481,(none extracted),False
+E099,97476,(none extracted),False
+E100,81153,RoadEx America,False
+E101,2515,Aurore Development S.p.A.,True
+E102,8375,PCA Group Sdn. Bhd.,True
+E103,52306,Edacentrum,False
+E104,8260,San Luis Potosí City Hall,False
+E105,2451,"CyrusOne, LLC.",True
+E106,4823,(none extracted),True
+E107,97589,(none extracted),False
+E108,45233,Occidental,False
+E109,84927,(none extracted),True
+E110,20302,"MacAllister Machinery Co., Inc.; Core Molding Technologies",True
+E111,32813,(none extracted),False
+E112,8374,Dentist in New Britain,False
+E113,40699,ialegre.com,False
+E114,97376,(none extracted),False
+E115,2666,(none extracted),True
+E116,24007,(none extracted),False
+E117,75900,TE***PB,True
+E118,61386,(none extracted),False
+E119,11985,TEC Container,True
+E120,52250,(none extracted),False
+E121,2510,Aurore Development S.P.A.,False
+E122,40656,Nutex,False
+E123,61563,Westbrook Greenhouse Systems,True
+E124,29253,Me***,False
+E125,45210,Complete Packaging Solutions,True
+E126,61377,"AQUALOGUS Engenharia e Ambiente, Lda.",False
+E127,33081,"iWIN CO.,LTD",False
+E128,81272,Metropolitan Community Health Services,False
+E129,89060,(none extracted),False
+E130,26745,Probe Test System,True
+E131,8211,(none extracted),False
+E132,2507,Euroflora srl,False
+E133,97239,Barrett Mahony Consulting Engineers,False
+E134,97215,(none extracted),True
+E135,81248,(none extracted),True
+E136,28976,Allied Recycling,False
+E137,111353,Manroc Developments Inc.,False
+E138,89009,(none extracted),True
+E139,81236,glasfloss.com,False
+E140,81196,(none extracted),False
+E141,75938,Meridian 16 Business Park d.o.o.,False
+E142,33051,(none extracted),True
+E143,67762,John Engel Team,False
+E144,28941,(none extracted),False
+E145,20275,(none extracted),True
+E146,29038,KRC Machine Tool Solutions,False
+E147,61495,Universal Starch-Chem Allied Ltd,True
+E148,45183,(none extracted),True
+E149,49424,(none extracted),False
+E150,81132,(none extracted),False

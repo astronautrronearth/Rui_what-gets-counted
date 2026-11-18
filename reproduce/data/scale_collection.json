@@ -1,0 +1,2 @@
+{"runs": {"4535": {"seeds": 20016, "edges": 52802}, "4536": {"seeds": 19817, "edges": 52314}, "4537": {"seeds": 20034, "edges": 50168}},
+ "note": "Final log lines of interaction_collect_scale.py (2026-11-06); edges are reply, quote and repost edges after derivation."}

@@ -1,0 +1,224 @@
+{
+ "note": "post-hoc, not pre-registered (2026-11-07)",
+ "fragility": {
+  "cyber_main": {
+   "days": 12,
+   "per_day_P1": [
+    60.0,
+    69.0,
+    28.0,
+    57.0,
+    22.0,
+    21.0,
+    23.0,
+    44.0,
+    41.0,
+    87.0,
+    40.0,
+    249.0
+   ],
+   "P2_edges": {
+    "gain": 0.3779,
+    "daily_diff": [
+     112.0,
+     2.0,
+     6.0,
+     0.0,
+     1.0,
+     98.0,
+     15.0,
+     8.0,
+     24.0,
+     4.0,
+     3.0,
+     7.0
+    ],
+    "days_positive": 11,
+    "days_negative": 0,
+    "lodo_min": 0.2467,
+    "lodo_max": 0.5549,
+    "leave_two_out_min": 0.1061,
+    "without_top2_days": 0.1061
+   },
+   "P4_responders": {
+    "gain": 0.3803,
+    "daily_diff": [
+     107.0,
+     2.0,
+     6.0,
+     1.8,
+     1.0,
+     97.0,
+     17.0,
+     8.0,
+     28.0,
+     4.0,
+     3.0,
+     7.0
+    ],
+    "days_positive": 12,
+    "days_negative": 0,
+    "lodo_min": 0.2567,
+    "lodo_max": 0.5586,
+    "leave_two_out_min": 0.1179,
+    "without_top2_days": 0.1179
+   }
+  },
+  "cyber_fresh": {
+   "days": 8,
+   "per_day_P1": [
+    9.0,
+    186.0,
+    16.0,
+    9.0,
+    6.0,
+    19.0,
+    7.0,
+    5.0
+   ],
+   "P2_edges": {
+    "gain": 0.4163,
+    "daily_diff": [
+     22.0,
+     68.0,
+     -3.0,
+     1.0,
+     -1.0,
+     15.0,
+     4.0,
+     1.0
+    ],
+    "days_positive": 6,
+    "days_negative": 2,
+    "lodo_min": 0.3427,
+    "lodo_max": 0.5493,
+    "leave_two_out_min": 0.2742,
+    "without_top2_days": 0.2742
+   },
+   "P4_responders": {
+    "gain": 0.4146,
+    "daily_diff": [
+     22.0,
+     68.0,
+     -3.0,
+     0.0,
+     -0.5,
+     15.0,
+     4.0,
+     1.0
+    ],
+    "days_positive": 5,
+    "days_negative": 2,
+    "lodo_min": 0.3409,
+    "lodo_max": 0.5428,
+    "leave_two_out_min": 0.2668,
+    "without_top2_days": 0.2668
+   }
+  },
+  "nba": {
+   "days": 8,
+   "per_day_P1": [
+    9.0,
+    23.0,
+    25.0,
+    22.0,
+    18.0,
+    15.0,
+    27.0,
+    38.0
+   ],
+   "P2_edges": {
+    "gain": 0.0339,
+    "daily_diff": [
+     2.0,
+     3.0,
+     -1.0,
+     2.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "days_positive": 3,
+    "days_negative": 1,
+    "lodo_min": 0.0195,
+    "lodo_max": 0.0461,
+    "leave_two_out_min": 0.0069,
+    "without_top2_days": 0.0069
+   },
+   "P4_responders": {
+    "gain": 0.008,
+    "daily_diff": [
+     2.0,
+     3.0,
+     -1.0,
+     0.0,
+     0.0,
+     -2.6,
+     0.0,
+     0.0
+    ],
+    "days_positive": 2,
+    "days_negative": 2,
+    "lodo_min": -0.0103,
+    "lodo_max": 0.0247,
+    "leave_two_out_min": -0.0247,
+    "without_top2_days": -0.0247
+   }
+  }
+ },
+ "registry_engagement": {
+  "feed_share_of_candidate_posts": 0.948,
+  "edges_per_feed_post": 0.036,
+  "edges_per_nonfeed_post": 0.406,
+  "posts": {
+   "claims_b5": 27.98,
+   "claims_95_ties": [
+    23.225,
+    31.775
+   ]
+  },
+  "edges": {
+   "claims_b5": 8.3,
+   "claims_95_ties": [
+    6.0,
+    11.774999999999999
+   ]
+  },
+  "responders": {
+   "claims_b5": 8.6,
+   "claims_95_ties": [
+    5.225,
+    13.0
+   ]
+  }
+ },
+ "discordance_pre_eval": {
+  "cyber_main_all": {
+   "C_pre_eval": 1.0,
+   "C_full": 1.0,
+   "gain_edges": 0.3779
+  },
+  "cyber_fresh": {
+   "C_pre_eval": 0.9667,
+   "C_full": 0.9091,
+   "gain_edges": 0.4163
+  },
+  "crypto": {
+   "C_pre_eval": 0.6194,
+   "C_full": 0.6813,
+   "gain_edges": 0.1311
+  },
+  "ai": {
+   "C_pre_eval": 0.2168,
+   "C_full": 0.2308,
+   "gain_edges": 0.0109
+  },
+  "nba": {
+   "C_pre_eval": 0.203,
+   "C_full": 0.1156,
+   "gain_edges": 0.0339
+  },
+  "rho_pre_eval_domains": 0.8
+ }
+}

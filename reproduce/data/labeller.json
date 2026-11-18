@@ -1,0 +1,17 @@
+{
+ "source": "sensor scripts/eval_gates.py with llm_v2d added to VERSIONS, run 2026-11-05",
+ "llm_v2d": {
+  "recall_E_reg_pos": {
+   "n": 101,
+   "judged_rel": 69,
+   "value": 0.683,
+   "feed_share_of_n": 0.9900990099009901
+  },
+  "specificity_E_reg_neg": {
+   "n": 1567,
+   "judged_rel": 10,
+   "value": 0.994
+  }
+ },
+ "precision_hand_labelled": null
+}

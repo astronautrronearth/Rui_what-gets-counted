@@ -1,0 +1,14 @@
+{
+ "feed_share_of_candidate_posts": 0.948,
+ "edges_per_feed_post": 0.036,
+ "edges_per_nonfeed_post": 0.406,
+ "clusters_zero_edges_share": 0.905,
+ "candidate_posts_zero_edges_share": 0.966,
+ "random": {
+  "claims_b5": 9.12,
+  "claims_95_ties": [
+   4.0,
+   13.774999999999999
+  ]
+ }
+}

@@ -1,0 +1,1141 @@
+{
+ "runs": [
+  4571,
+  4569,
+  4570
+ ],
+ "nba": {
+  "domain": "nba",
+  "n_roots": 10000,
+  "n_units": 31,
+  "units_ge30": 25,
+  "rho_posts_accounts": 0.995,
+  "rho_posts_neff": 0.884,
+  "top1_share_median": 0.06,
+  "edges_48h": 7554,
+  "self_share_48h": 0.3347,
+  "continuation_share": 0.5364,
+  "feeds_hist": 24,
+  "incidence_48h": 0.235,
+  "monitor": {
+   "k1": {
+    "P1_posts": {
+     "total": 102.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -3.0,
+     "vs_edges_ci": [
+      -9.0,
+      0.0
+     ]
+    },
+    "P2_edges": {
+     "total": 105.0,
+     "vs_posts": 3.0,
+     "vs_posts_ci": [
+      0.0,
+      9.0
+     ],
+     "vs_posts_rel": 0.0294,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.12
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P3_authors": {
+     "total": 102.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -3.0,
+     "vs_edges_ci": [
+      -9.0,
+      0.0
+     ]
+    },
+    "P4_responders": {
+     "total": 105.0,
+     "vs_posts": 3.0,
+     "vs_posts_ci": [
+      0.0,
+      9.0
+     ],
+     "vs_posts_rel": 0.0294,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.12
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P5_dedup": {
+     "total": 102.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -3.0,
+     "vs_edges_ci": [
+      -9.0,
+      0.0
+     ]
+    },
+    "P6_capped": {
+     "total": 102.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -3.0,
+     "vs_edges_ci": [
+      -9.0,
+      0.0
+     ]
+    },
+    "P7_nofeed": {
+     "total": 102.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -3.0,
+     "vs_edges_ci": [
+      -9.0,
+      0.0
+     ]
+    },
+    "P8_nonself_edges": {
+     "total": 105.0,
+     "vs_posts": 3.0,
+     "vs_posts_ci": [
+      0.0,
+      9.0
+     ],
+     "vs_posts_rel": 0.0294,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.12
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P9_oracle": {
+     "total": 167.0,
+     "vs_posts": 65.0,
+     "vs_posts_ci": [
+      0.0,
+      182.0
+     ],
+     "vs_posts_rel": 0.6373,
+     "vs_posts_rel_ci": [
+      0.0,
+      1.4622
+     ],
+     "vs_edges": 62.0,
+     "vs_edges_ci": [
+      0.0,
+      178.0
+     ]
+    },
+    "P10_persistent": {
+     "total": 89.0,
+     "vs_posts": -13.0,
+     "vs_posts_ci": [
+      -108.0,
+      135.0
+     ],
+     "vs_posts_rel": -0.1275,
+     "vs_posts_rel_ci": [
+      -1.0,
+      1.0932
+     ],
+     "vs_edges": -16.0,
+     "vs_edges_ci": [
+      -112.0,
+      132.0
+     ]
+    },
+    "days_with_target": 8
+   },
+   "k3": {
+    "P1_posts": {
+     "total": 177.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -6.0,
+     "vs_edges_ci": [
+      -14.0,
+      1.0
+     ]
+    },
+    "P2_edges": {
+     "total": 183.0,
+     "vs_posts": 6.0,
+     "vs_posts_ci": [
+      -1.0,
+      14.0
+     ],
+     "vs_posts_rel": 0.0339,
+     "vs_posts_rel_ci": [
+      -0.0055,
+      0.0867
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P3_authors": {
+     "total": 182.0,
+     "vs_posts": 5.0,
+     "vs_posts_ci": [
+      0.0,
+      12.0
+     ],
+     "vs_posts_rel": 0.0282,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0745
+     ],
+     "vs_edges": -1.0,
+     "vs_edges_ci": [
+      -6.0,
+      3.0
+     ]
+    },
+    "P4_responders": {
+     "total": 178.4,
+     "vs_posts": 1.4,
+     "vs_posts_ci": [
+      -7.2,
+      10.4
+     ],
+     "vs_posts_rel": 0.008,
+     "vs_posts_rel_ci": [
+      -0.0424,
+      0.0649
+     ],
+     "vs_edges": -4.6,
+     "vs_edges_ci": [
+      -10.3,
+      0.0
+     ]
+    },
+    "P5_dedup": {
+     "total": 177.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -6.0,
+     "vs_edges_ci": [
+      -14.0,
+      1.0
+     ]
+    },
+    "P6_capped": {
+     "total": 182.0,
+     "vs_posts": 5.0,
+     "vs_posts_ci": [
+      0.0,
+      12.0
+     ],
+     "vs_posts_rel": 0.0282,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0745
+     ],
+     "vs_edges": -1.0,
+     "vs_edges_ci": [
+      -6.0,
+      3.0
+     ]
+    },
+    "P7_nofeed": {
+     "total": 179.0,
+     "vs_posts": 2.0,
+     "vs_posts_ci": [
+      0.0,
+      6.0
+     ],
+     "vs_posts_rel": 0.0113,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.042
+     ],
+     "vs_edges": -4.0,
+     "vs_edges_ci": [
+      -11.0,
+      2.0
+     ]
+    },
+    "P8_nonself_edges": {
+     "total": 176.9,
+     "vs_posts": -0.1,
+     "vs_posts_ci": [
+      -4.2,
+      5.0
+     ],
+     "vs_posts_rel": -0.0005,
+     "vs_posts_rel_ci": [
+      -0.0248,
+      0.0344
+     ],
+     "vs_edges": -6.1,
+     "vs_edges_ci": [
+      -13.0,
+      0.0
+     ]
+    },
+    "P9_oracle": {
+     "total": 286.0,
+     "vs_posts": 109.0,
+     "vs_posts_ci": [
+      21.0,
+      273.0
+     ],
+     "vs_posts_rel": 0.6158,
+     "vs_posts_rel_ci": [
+      0.118,
+      1.3173
+     ],
+     "vs_edges": 103.0,
+     "vs_edges_ci": [
+      13.0,
+      269.0
+     ]
+    },
+    "P10_persistent": {
+     "total": 218.0,
+     "vs_posts": 41.0,
+     "vs_posts_ci": [
+      -48.0,
+      204.0
+     ],
+     "vs_posts_rel": 0.2316,
+     "vs_posts_rel_ci": [
+      -0.3052,
+      0.9716
+     ],
+     "vs_edges": 35.0,
+     "vs_edges_ci": [
+      -59.0,
+      201.0
+     ]
+    },
+    "days_with_target": 8
+   },
+   "k5": {
+    "P1_posts": {
+     "total": 219.5,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -0.5,
+     "vs_edges_ci": [
+      -20.5,
+      20.5
+     ]
+    },
+    "P2_edges": {
+     "total": 220.0,
+     "vs_posts": 0.5,
+     "vs_posts_ci": [
+      -20.5,
+      20.5
+     ],
+     "vs_posts_rel": 0.0022,
+     "vs_posts_rel_ci": [
+      -0.0917,
+      0.0996
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P3_authors": {
+     "total": 223.0,
+     "vs_posts": 3.5,
+     "vs_posts_ci": [
+      0.0,
+      10.5
+     ],
+     "vs_posts_rel": 0.0159,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0614
+     ],
+     "vs_edges": 3.0,
+     "vs_edges_ci": [
+      -18.0,
+      25.0
+     ]
+    },
+    "P4_responders": {
+     "total": 220.0,
+     "vs_posts": 0.5,
+     "vs_posts_ci": [
+      -20.5,
+      20.5
+     ],
+     "vs_posts_rel": 0.0022,
+     "vs_posts_rel_ci": [
+      -0.0917,
+      0.0996
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P5_dedup": {
+     "total": 219.0,
+     "vs_posts": -0.5,
+     "vs_posts_ci": [
+      -1.5,
+      0.0
+     ],
+     "vs_posts_rel": -0.0023,
+     "vs_posts_rel_ci": [
+      -0.009,
+      0.0
+     ],
+     "vs_edges": -1.0,
+     "vs_edges_ci": [
+      -21.0,
+      20.0
+     ]
+    },
+    "P6_capped": {
+     "total": 225.0,
+     "vs_posts": 5.5,
+     "vs_posts_ci": [
+      0.0,
+      16.5
+     ],
+     "vs_posts_rel": 0.025,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0966
+     ],
+     "vs_edges": 5.0,
+     "vs_edges_ci": [
+      -18.0,
+      28.0
+     ]
+    },
+    "P7_nofeed": {
+     "total": 227.6,
+     "vs_posts": 8.1,
+     "vs_posts_ci": [
+      0.0,
+      19.1
+     ],
+     "vs_posts_rel": 0.0369,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.1103
+     ],
+     "vs_edges": 7.6,
+     "vs_edges_ci": [
+      -13.8,
+      28.6
+     ]
+    },
+    "P8_nonself_edges": {
+     "total": 220.0,
+     "vs_posts": 0.5,
+     "vs_posts_ci": [
+      -20.5,
+      20.5
+     ],
+     "vs_posts_rel": 0.0022,
+     "vs_posts_rel_ci": [
+      -0.0917,
+      0.0996
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P9_oracle": {
+     "total": 334.0,
+     "vs_posts": 114.5,
+     "vs_posts_ci": [
+      24.0,
+      271.5
+     ],
+     "vs_posts_rel": 0.5216,
+     "vs_posts_rel_ci": [
+      0.1179,
+      1.0036
+     ],
+     "vs_edges": 114.0,
+     "vs_edges_ci": [
+      26.0,
+      272.0
+     ]
+    },
+    "P10_persistent": {
+     "total": 308.0,
+     "vs_posts": 88.5,
+     "vs_posts_ci": [
+      -10.0,
+      254.5
+     ],
+     "vs_posts_rel": 0.4031,
+     "vs_posts_rel_ci": [
+      -0.0503,
+      0.9331
+     ],
+     "vs_edges": 88.0,
+     "vs_edges_ci": [
+      2.0,
+      250.0
+     ]
+    },
+    "days_with_target": 8
+   }
+  }
+ },
+ "cyber": {
+  "domain": "cyber",
+  "n_roots": 9844,
+  "n_units": 11,
+  "units_ge30": 11,
+  "rho_posts_accounts": 0.791,
+  "rho_posts_neff": 0.091,
+  "top1_share_median": 0.043,
+  "edges_48h": 6039,
+  "self_share_48h": 0.2419,
+  "continuation_share": 0.7632,
+  "feeds_hist": 35,
+  "incidence_48h": 0.1036,
+  "monitor": {
+   "k1": {
+    "P1_posts": {
+     "total": 140.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      -76.0,
+      100.0
+     ]
+    },
+    "P2_edges": {
+     "total": 140.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      -100.0,
+      76.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      -0.2801,
+      3.7059
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P3_authors": {
+     "total": 151.0,
+     "vs_posts": 11.0,
+     "vs_posts_ci": [
+      -8.0,
+      29.0
+     ],
+     "vs_posts_rel": 0.0786,
+     "vs_posts_rel_ci": [
+      -0.0732,
+      1.4444
+     ],
+     "vs_edges": 11.0,
+     "vs_edges_ci": [
+      -69.0,
+      106.0
+     ]
+    },
+    "P4_responders": {
+     "total": 140.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      -100.0,
+      76.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      -0.2801,
+      3.7059
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P5_dedup": {
+     "total": 140.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      -76.0,
+      100.0
+     ]
+    },
+    "P6_capped": {
+     "total": 151.0,
+     "vs_posts": 11.0,
+     "vs_posts_ci": [
+      -8.0,
+      29.0
+     ],
+     "vs_posts_rel": 0.0786,
+     "vs_posts_rel_ci": [
+      -0.0732,
+      1.4444
+     ],
+     "vs_edges": 11.0,
+     "vs_edges_ci": [
+      -69.0,
+      106.0
+     ]
+    },
+    "P7_nofeed": {
+     "total": 151.0,
+     "vs_posts": 11.0,
+     "vs_posts_ci": [
+      -8.0,
+      29.0
+     ],
+     "vs_posts_rel": 0.0786,
+     "vs_posts_rel_ci": [
+      -0.0732,
+      1.4444
+     ],
+     "vs_edges": 11.0,
+     "vs_edges_ci": [
+      -69.0,
+      106.0
+     ]
+    },
+    "P8_nonself_edges": {
+     "total": 140.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      -100.0,
+      76.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      -0.2801,
+      3.7059
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P9_oracle": {
+     "total": 185.0,
+     "vs_posts": 45.0,
+     "vs_posts_ci": [
+      11.0,
+      92.0
+     ],
+     "vs_posts_rel": 0.3214,
+     "vs_posts_rel_ci": [
+      0.0404,
+      3.8752
+     ],
+     "vs_edges": 45.0,
+     "vs_edges_ci": [
+      3.0,
+      120.0
+     ]
+    },
+    "P10_persistent": {
+     "total": 151.0,
+     "vs_posts": 11.0,
+     "vs_posts_ci": [
+      -8.0,
+      29.0
+     ],
+     "vs_posts_rel": 0.0786,
+     "vs_posts_rel_ci": [
+      -0.0732,
+      1.4444
+     ],
+     "vs_edges": 11.0,
+     "vs_edges_ci": [
+      -69.0,
+      106.0
+     ]
+    },
+    "days_with_target": 8
+   },
+   "k3": {
+    "P1_posts": {
+     "total": 257.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -107.0,
+     "vs_edges_ci": [
+      -243.0,
+      -10.0
+     ]
+    },
+    "P2_edges": {
+     "total": 364.0,
+     "vs_posts": 107.0,
+     "vs_posts_ci": [
+      10.0,
+      243.0
+     ],
+     "vs_posts_rel": 0.4163,
+     "vs_posts_rel_ci": [
+      0.1348,
+      1.0
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P3_authors": {
+     "total": 267.0,
+     "vs_posts": 10.0,
+     "vs_posts_ci": [
+      -4.0,
+      32.0
+     ],
+     "vs_posts_rel": 0.0389,
+     "vs_posts_rel_ci": [
+      -0.0299,
+      0.304
+     ],
+     "vs_edges": -97.0,
+     "vs_edges_ci": [
+      -234.0,
+      -5.0
+     ]
+    },
+    "P4_responders": {
+     "total": 363.5,
+     "vs_posts": 106.5,
+     "vs_posts_ci": [
+      9.5,
+      242.0
+     ],
+     "vs_posts_rel": 0.4146,
+     "vs_posts_rel_ci": [
+      0.1289,
+      1.0015
+     ],
+     "vs_edges": -0.5,
+     "vs_edges_ci": [
+      -3.0,
+      1.6
+     ]
+    },
+    "P5_dedup": {
+     "total": 257.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -107.0,
+     "vs_edges_ci": [
+      -243.0,
+      -10.0
+     ]
+    },
+    "P6_capped": {
+     "total": 260.9,
+     "vs_posts": 3.9,
+     "vs_posts_ci": [
+      -4.0,
+      13.8
+     ],
+     "vs_posts_rel": 0.0153,
+     "vs_posts_rel_ci": [
+      -0.0308,
+      0.1274
+     ],
+     "vs_edges": -103.1,
+     "vs_edges_ci": [
+      -238.1,
+      -9.0
+     ]
+    },
+    "P7_nofeed": {
+     "total": 273.0,
+     "vs_posts": 16.0,
+     "vs_posts_ci": [
+      -4.0,
+      48.0
+     ],
+     "vs_posts_rel": 0.0623,
+     "vs_posts_rel_ci": [
+      -0.0179,
+      0.4654
+     ],
+     "vs_edges": -91.0,
+     "vs_edges_ci": [
+      -229.0,
+      2.0
+     ]
+    },
+    "P8_nonself_edges": {
+     "total": 363.4,
+     "vs_posts": 106.5,
+     "vs_posts_ci": [
+      9.4,
+      242.0
+     ],
+     "vs_posts_rel": 0.4142,
+     "vs_posts_rel_ci": [
+      0.1289,
+      1.0001
+     ],
+     "vs_edges": -0.5,
+     "vs_edges_ci": [
+      -3.0,
+      1.4
+     ]
+    },
+    "P9_oracle": {
+     "total": 378.0,
+     "vs_posts": 121.0,
+     "vs_posts_ci": [
+      29.0,
+      252.0
+     ],
+     "vs_posts_rel": 0.4708,
+     "vs_posts_rel_ci": [
+      0.3333,
+      1.1866
+     ],
+     "vs_edges": 14.0,
+     "vs_edges_ci": [
+      5.0,
+      25.0
+     ]
+    },
+    "P10_persistent": {
+     "total": 179.0,
+     "vs_posts": -78.0,
+     "vs_posts_ci": [
+      -224.0,
+      5.0
+     ],
+     "vs_posts_rel": -0.3035,
+     "vs_posts_rel_ci": [
+      -0.3734,
+      0.0667
+     ],
+     "vs_edges": -185.0,
+     "vs_edges_ci": [
+      -469.0,
+      -7.0
+     ]
+    },
+    "days_with_target": 8
+   },
+   "k5": {
+    "P1_posts": {
+     "total": 381.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -18.0,
+     "vs_edges_ci": [
+      -34.0,
+      -3.0
+     ]
+    },
+    "P2_edges": {
+     "total": 399.0,
+     "vs_posts": 18.0,
+     "vs_posts_ci": [
+      3.0,
+      34.0
+     ],
+     "vs_posts_rel": 0.0472,
+     "vs_posts_rel_ci": [
+      0.006,
+      0.2345
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      0.0,
+      0.0
+     ]
+    },
+    "P3_authors": {
+     "total": 387.5,
+     "vs_posts": 6.5,
+     "vs_posts_ci": [
+      -3.5,
+      20.5
+     ],
+     "vs_posts_rel": 0.017,
+     "vs_posts_rel_ci": [
+      -0.0108,
+      0.1402
+     ],
+     "vs_edges": -11.5,
+     "vs_edges_ci": [
+      -25.5,
+      -1.0
+     ]
+    },
+    "P4_responders": {
+     "total": 399.0,
+     "vs_posts": 18.0,
+     "vs_posts_ci": [
+      3.0,
+      35.0
+     ],
+     "vs_posts_rel": 0.0472,
+     "vs_posts_rel_ci": [
+      0.0057,
+      0.241
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      -3.0,
+      3.0
+     ]
+    },
+    "P5_dedup": {
+     "total": 381.0,
+     "vs_posts": 0.0,
+     "vs_posts_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_posts_rel": 0.0,
+     "vs_posts_rel_ci": [
+      0.0,
+      0.0
+     ],
+     "vs_edges": -18.0,
+     "vs_edges_ci": [
+      -34.0,
+      -3.0
+     ]
+    },
+    "P6_capped": {
+     "total": 387.0,
+     "vs_posts": 6.0,
+     "vs_posts_ci": [
+      -4.0,
+      20.0
+     ],
+     "vs_posts_rel": 0.0157,
+     "vs_posts_rel_ci": [
+      -0.0154,
+      0.1391
+     ],
+     "vs_edges": -12.0,
+     "vs_edges_ci": [
+      -27.0,
+      -1.0
+     ]
+    },
+    "P7_nofeed": {
+     "total": 385.0,
+     "vs_posts": 4.0,
+     "vs_posts_ci": [
+      -6.0,
+      19.0
+     ],
+     "vs_posts_rel": 0.0105,
+     "vs_posts_rel_ci": [
+      -0.0331,
+      0.1187
+     ],
+     "vs_edges": -14.0,
+     "vs_edges_ci": [
+      -28.0,
+      -3.0
+     ]
+    },
+    "P8_nonself_edges": {
+     "total": 399.0,
+     "vs_posts": 18.0,
+     "vs_posts_ci": [
+      3.0,
+      35.0
+     ],
+     "vs_posts_rel": 0.0472,
+     "vs_posts_rel_ci": [
+      0.0057,
+      0.241
+     ],
+     "vs_edges": 0.0,
+     "vs_edges_ci": [
+      -3.0,
+      3.0
+     ]
+    },
+    "P9_oracle": {
+     "total": 410.0,
+     "vs_posts": 29.0,
+     "vs_posts_ci": [
+      13.0,
+      49.0
+     ],
+     "vs_posts_rel": 0.0761,
+     "vs_posts_rel_ci": [
+      0.0199,
+      0.3333
+     ],
+     "vs_edges": 11.0,
+     "vs_edges_ci": [
+      4.0,
+      19.0
+     ]
+    },
+    "P10_persistent": {
+     "total": 277.0,
+     "vs_posts": -104.0,
+     "vs_posts_ci": [
+      -245.0,
+      0.0
+     ],
+     "vs_posts_rel": -0.273,
+     "vs_posts_rel_ci": [
+      -0.4684,
+      0.0
+     ],
+     "vs_edges": -122.0,
+     "vs_edges_ci": [
+      -255.0,
+      -17.0
+     ]
+    },
+    "days_with_target": 8
+   }
+  }
+ },
+ "reading_k3": {
+  "P3_authors": "boundary (nba 0, cyber 0)",
+  "P4_responders": "boundary (nba 0, cyber 1)"
+ }
+}

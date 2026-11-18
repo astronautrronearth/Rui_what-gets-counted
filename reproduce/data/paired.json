@@ -1,0 +1,52 @@
+{
+ "main_events": {
+  "diff": 28.6,
+  "ci": [
+   22.1,
+   35.84
+  ],
+  "n_days": 26,
+  "days_positive": 26,
+  "days_negative": 0
+ },
+ "fresh_events": {
+  "diff": 8.32,
+  "ci": [
+   0.2,
+   15.7
+  ],
+  "n_days": 16,
+  "days_positive": 12,
+  "days_negative": 4
+ },
+ "fresh_events_mature": {
+  "diff": 6.7,
+  "ci": [
+   2.22,
+   11.74
+  ],
+  "n_days": 13,
+  "days_positive": 10,
+  "days_negative": 3
+ },
+ "main_discussion": {
+  "diff": -8.0,
+  "ci": [
+   -27.0,
+   3.0
+  ],
+  "n_days": 12,
+  "days_positive": 1,
+  "days_negative": 1
+ },
+ "fresh_discussion": {
+  "diff": -6.0,
+  "ci": [
+   -16.0,
+   0.0
+  ],
+  "n_days": 8,
+  "days_positive": 0,
+  "days_negative": 2
+ }
+}

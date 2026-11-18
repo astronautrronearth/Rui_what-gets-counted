@@ -1,0 +1,56 @@
+{
+ "note": "exploratory; capped rule (<=3 posts per author) in the fresh-window event replay; from scripts/www_crossover_fresh_capped.py",
+ "b1": {
+  "claims": 3.0,
+  "ties_95": [
+   3.0,
+   3.0
+  ],
+  "vs_posts": 1.0,
+  "vs_posts_ci": [
+   -2.4,
+   4.5
+  ],
+  "vs_random": 1.94,
+  "vs_random_ci": [
+   -0.26,
+   4.5
+  ]
+ },
+ "b5": {
+  "claims": 14.6,
+  "ties_95": [
+   12.0,
+   17.775
+  ],
+  "vs_posts": 1.28,
+  "vs_posts_ci": [
+   0.36,
+   2.82
+  ],
+  "vs_random": 9.2,
+  "vs_random_ci": [
+   2.38,
+   16.28
+  ]
+ },
+ "b10": {
+  "claims": 31.6,
+  "ties_95": [
+   28.0,
+   36.775
+  ],
+  "vs_posts": 1.56,
+  "vs_posts_ci": [
+   0.56,
+   2.9
+  ],
+  "vs_random": 19.6,
+  "vs_random_ci": [
+   6.9,
+   34.0
+  ]
+ },
+ "posts_b5_check": 13.32,
+ "authors_b5_check": 13.0
+}

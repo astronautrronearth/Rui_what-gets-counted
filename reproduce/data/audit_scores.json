@@ -1,0 +1,250 @@
+{
+ "T1": {
+  "n_items": 120,
+  "n_accepted": 92,
+  "n_rejected_stratum": 28,
+  "unsure_or_blank": 3,
+  "cyber_precision_weighted": 98.8,
+  "cyber_precision_unweighted": 95.7,
+  "cyber_precision_ci_unweighted": [
+   89.3,
+   98.3
+  ],
+  "n_cyber_definite": 92,
+  "topic_precision_weighted": 83.5,
+  "topic_precision_unweighted": 53.4,
+  "topic_precision_ci_unweighted": [
+   43.1,
+   63.5
+  ],
+  "n_topic": 88,
+  "rejected_judged_cyber": [
+   8,
+   25
+  ],
+  "kappa_cyber_B_vs_llm": {
+   "n": 115,
+   "agreement": 95.7,
+   "kappa": 0.85
+  },
+  "topic_errors": [
+   [
+    "gov_advisory->unassigned",
+    8
+   ],
+   [
+    "policy_regulation->unassigned",
+    5
+   ],
+   [
+    "ransomware->unassigned",
+    4
+   ],
+   [
+    "fraud_financial->unassigned",
+    3
+   ],
+   [
+    "phishing_scam->unassigned",
+    3
+   ],
+   [
+    "malware_infostealer->vulnerability_cve",
+    2
+   ],
+   [
+    "vulnerability_cve->ransomware",
+    1
+   ],
+   [
+    "critical_infrastructure->unassigned",
+    1
+   ]
+  ],
+  "kappa_topic_correct_B_vs_llm": {
+   "n": 87,
+   "agreement": 74.7,
+   "kappa": 0.48
+  }
+ },
+ "T2": {
+  "n_items": 50,
+  "n_with_extraction": 32,
+  "n_without": 18,
+  "unsure": 2,
+  "precision_all_correct": 86.7,
+  "precision_ci": [
+   70.3,
+   94.7
+  ],
+  "partly_correct": 0,
+  "n_precision": 30,
+  "empty_correct": 100.0,
+  "n_empty": 18,
+  "recall_posts": 96.3,
+  "recall_ci": [
+   81.7,
+   99.3
+  ],
+  "n_true_victim_posts": 27,
+  "contradictory_labels_treated_unsure": [],
+  "kappa_B_vs_llm": {
+   "n": 44,
+   "agreement": 68.2,
+   "kappa": 0.43
+  }
+ },
+ "T3": {
+  "n_items": 60,
+  "unsure": 11,
+  "precision_exact": 100.0,
+  "precision_exact_ci": [
+   83.2,
+   100.0
+  ],
+  "n_exact": 19,
+  "unsure_exact": 0,
+  "precision_fuzzy": 100.0,
+  "precision_fuzzy_ci": [
+   88.6,
+   100.0
+  ],
+  "n_fuzzy": 30,
+  "unsure_fuzzy": 11,
+  "precision_all": 100.0,
+  "precision_all_ci": [
+   92.7,
+   100.0
+  ],
+  "n_all": 49,
+  "unsure_all": 11,
+  "precision_fuzzy_unsure_as_wrong": 73.2,
+  "n_fuzzy_all": 41,
+  "kappa_B_vs_llm": {
+   "n": 47,
+   "agreement": 91.5,
+   "kappa": 0.0
+  },
+  "llm_label_counts": {
+   "yes": 45,
+   "no": 12,
+   "": 3
+  },
+  "unsure_items": [
+   [
+    "M012",
+    "fuzzy",
+    "goldfarb",
+    "wiggins childs pantazis fisher goldfarb"
+   ],
+   [
+    "M033",
+    "fuzzy",
+    "health",
+    "mission pet health"
+   ],
+   [
+    "M036",
+    "fuzzy",
+    "health",
+    "metropolitan community health services"
+   ],
+   [
+    "M057",
+    "fuzzy",
+    "law firm",
+    "norwood law firm"
+   ],
+   [
+    "M131",
+    "fuzzy",
+    "uni\u00e3o de ensino superior do igua\u00e7u ltda",
+    "superior"
+   ],
+   [
+    "M155",
+    "fuzzy",
+    "us professional services firm",
+    "professional"
+   ],
+   [
+    "M161",
+    "fuzzy",
+    "state",
+    "state of florida dmv"
+   ],
+   [
+    "M169",
+    "fuzzy",
+    "healthcare",
+    "imperial healthcare solutions"
+   ],
+   [
+    "M220",
+    "fuzzy",
+    "weeksroses",
+    "gardensalive bitsandpieces iselinursery weeksroses esm"
+   ],
+   [
+    "M229",
+    "fuzzy",
+    "young injury law in the us",
+    "young injury law"
+   ],
+   [
+    "M235",
+    "fuzzy",
+    "technology",
+    "kingston technology"
+   ]
+  ]
+ },
+ "T4": {
+  "n_items": 50,
+  "unsure": 3,
+  "precision::AI / large language models": [
+   82.4,
+   17,
+   [
+    59.0,
+    93.8
+   ]
+  ],
+  "precision::NBA basketball": [
+   81.2,
+   16,
+   [
+    57.0,
+    93.4
+   ]
+  ],
+  "precision::cryptocurrency": [
+   100.0,
+   14,
+   [
+    78.5,
+    100.0
+   ]
+  ],
+  "precision::all": [
+   87.2,
+   47,
+   [
+    74.8,
+    94.0
+   ]
+  ],
+  "kind_of_in_domain": {
+   "unsure": 2,
+   "person discussing": 29,
+   "news / outlet": 4,
+   "automated feed or bot": 4,
+   "promotion / ad": 2
+  },
+  "kappa_B_vs_llm": {
+   "n": 47,
+   "agreement": 72.3,
+   "kappa": 0.3
+  }
+ }
+}

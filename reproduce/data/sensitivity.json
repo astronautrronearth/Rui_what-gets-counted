@@ -1,0 +1,2284 @@
+{
+ "n_partial_main": 32,
+ "variants": {
+  "main": {
+   "n": 2452,
+   "edges": 781,
+   "self_edges": 297,
+   "self_share": 0.3803,
+   "CSR_raw": 0.1452,
+   "CSR_raw_ci": [
+    0.1225,
+    0.1714
+   ],
+   "perm_p_raw": 0.0001999600079984003,
+   "CSR_nonself": 0.0909,
+   "CSR_nonself_ci": [
+    0.0755,
+    0.1075
+   ],
+   "perm_p_nonself": 0.0003999200159968006,
+   "topics": {
+    "ransomware": {
+     "posts": 249,
+     "inter_raw": 21,
+     "inter_nonself": 9,
+     "rank_posts": 4,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.036
+    },
+    "phishing_scam": {
+     "posts": 161,
+     "inter_raw": 41,
+     "inter_nonself": 17,
+     "rank_posts": 6,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.106
+    },
+    "unassigned": {
+     "posts": 480,
+     "inter_raw": 200,
+     "inter_nonself": 132,
+     "rank_posts": 3,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.275
+    },
+    "data_breach": {
+     "posts": 515,
+     "inter_raw": 263,
+     "inter_nonself": 204,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.396
+    },
+    "vulnerability_cve": {
+     "posts": 483,
+     "inter_raw": 64,
+     "inter_nonself": 13,
+     "rank_posts": 2,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.027
+    },
+    "policy_regulation": {
+     "posts": 91,
+     "inter_raw": 32,
+     "inter_nonself": 13,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.143
+    },
+    "gov_advisory": {
+     "posts": 195,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.149
+    },
+    "fraud_financial": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 11,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.222
+    },
+    "malware_infostealer": {
+     "posts": 123,
+     "inter_raw": 21,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.098
+    },
+    "ddos_outage": {
+     "posts": 50,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 10,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.32
+    },
+    "critical_infrastructure": {
+     "posts": 60,
+     "inter_raw": 34,
+     "inter_nonself": 29,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.483
+    }
+   },
+   "ransomware": {
+    "posts": 249,
+    "self_edges": 12,
+    "edges": 21,
+    "per_post_nonself": 0.036,
+    "ratio_vs_rest": 0.168
+   }
+  },
+  "main_no_partial": {
+   "n": 2420,
+   "edges": 763,
+   "self_edges": 297,
+   "self_share": 0.3893,
+   "CSR_raw": 0.1463,
+   "CSR_raw_ci": [
+    0.1239,
+    0.1717
+   ],
+   "perm_p_raw": 0.0007998400319936012,
+   "CSR_nonself": 0.0913,
+   "CSR_nonself_ci": [
+    0.0764,
+    0.1085
+   ],
+   "perm_p_nonself": 0.0003999200159968006,
+   "topics": {
+    "ransomware": {
+     "posts": 220,
+     "inter_raw": 21,
+     "inter_nonself": 9,
+     "rank_posts": 4,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.041
+    },
+    "phishing_scam": {
+     "posts": 161,
+     "inter_raw": 41,
+     "inter_nonself": 17,
+     "rank_posts": 6,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.106
+    },
+    "unassigned": {
+     "posts": 479,
+     "inter_raw": 187,
+     "inter_nonself": 119,
+     "rank_posts": 3,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.248
+    },
+    "data_breach": {
+     "posts": 514,
+     "inter_raw": 258,
+     "inter_nonself": 199,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.387
+    },
+    "vulnerability_cve": {
+     "posts": 483,
+     "inter_raw": 64,
+     "inter_nonself": 13,
+     "rank_posts": 2,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.027
+    },
+    "policy_regulation": {
+     "posts": 90,
+     "inter_raw": 32,
+     "inter_nonself": 13,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.144
+    },
+    "gov_advisory": {
+     "posts": 195,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.149
+    },
+    "fraud_financial": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 11,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.222
+    },
+    "malware_infostealer": {
+     "posts": 123,
+     "inter_raw": 21,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.098
+    },
+    "ddos_outage": {
+     "posts": 50,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 10,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.32
+    },
+    "critical_infrastructure": {
+     "posts": 60,
+     "inter_raw": 34,
+     "inter_nonself": 29,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.483
+    }
+   },
+   "ransomware": {
+    "posts": 220,
+    "self_edges": 12,
+    "edges": 21,
+    "per_post_nonself": 0.041,
+    "ratio_vs_rest": 0.197
+   }
+  },
+  "main_minus_top1": {
+   "n": 2386,
+   "edges": 777,
+   "self_edges": 297,
+   "self_share": 0.3822,
+   "CSR_raw": 0.1475,
+   "CSR_raw_ci": [
+    0.1246,
+    0.1751
+   ],
+   "perm_p_raw": 0.0001999600079984003,
+   "CSR_nonself": 0.0918,
+   "CSR_nonself_ci": [
+    0.077,
+    0.1095
+   ],
+   "perm_p_nonself": 0.0005998800239952009,
+   "topics": {
+    "ransomware": {
+     "posts": 249,
+     "inter_raw": 21,
+     "inter_nonself": 9,
+     "rank_posts": 4,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.036
+    },
+    "phishing_scam": {
+     "posts": 161,
+     "inter_raw": 41,
+     "inter_nonself": 17,
+     "rank_posts": 6,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.106
+    },
+    "unassigned": {
+     "posts": 480,
+     "inter_raw": 200,
+     "inter_nonself": 132,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.275
+    },
+    "data_breach": {
+     "posts": 515,
+     "inter_raw": 263,
+     "inter_nonself": 204,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.396
+    },
+    "vulnerability_cve": {
+     "posts": 417,
+     "inter_raw": 60,
+     "inter_nonself": 9,
+     "rank_posts": 3,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.022
+    },
+    "policy_regulation": {
+     "posts": 91,
+     "inter_raw": 32,
+     "inter_nonself": 13,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.143
+    },
+    "gov_advisory": {
+     "posts": 195,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.149
+    },
+    "fraud_financial": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 11,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.222
+    },
+    "malware_infostealer": {
+     "posts": 123,
+     "inter_raw": 21,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.098
+    },
+    "ddos_outage": {
+     "posts": 50,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 10,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.32
+    },
+    "critical_infrastructure": {
+     "posts": 60,
+     "inter_raw": 34,
+     "inter_nonself": 29,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.483
+    }
+   },
+   "ransomware": {
+    "posts": 249,
+    "self_edges": 12,
+    "edges": 21,
+    "per_post_nonself": 0.036,
+    "ratio_vs_rest": 0.164
+   }
+  },
+  "main_minus_top5": {
+   "n": 2189,
+   "edges": 770,
+   "self_edges": 292,
+   "self_share": 0.3792,
+   "CSR_raw": 0.1581,
+   "CSR_raw_ci": [
+    0.135,
+    0.1845
+   ],
+   "perm_p_raw": 0.0005998800239952009,
+   "CSR_nonself": 0.0991,
+   "CSR_nonself_ci": [
+    0.0835,
+    0.1166
+   ],
+   "perm_p_nonself": 0.0009998000399920016,
+   "topics": {
+    "ransomware": {
+     "posts": 196,
+     "inter_raw": 15,
+     "inter_nonself": 8,
+     "rank_posts": 4,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.041
+    },
+    "phishing_scam": {
+     "posts": 160,
+     "inter_raw": 41,
+     "inter_nonself": 17,
+     "rank_posts": 5,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.106
+    },
+    "unassigned": {
+     "posts": 476,
+     "inter_raw": 200,
+     "inter_nonself": 132,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.277
+    },
+    "data_breach": {
+     "posts": 505,
+     "inter_raw": 263,
+     "inter_nonself": 204,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.404
+    },
+    "vulnerability_cve": {
+     "posts": 374,
+     "inter_raw": 60,
+     "inter_nonself": 9,
+     "rank_posts": 3,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.024
+    },
+    "policy_regulation": {
+     "posts": 88,
+     "inter_raw": 31,
+     "inter_nonself": 12,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.136
+    },
+    "gov_advisory": {
+     "posts": 130,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 6,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.223
+    },
+    "fraud_financial": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 10,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.222
+    },
+    "malware_infostealer": {
+     "posts": 114,
+     "inter_raw": 21,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.105
+    },
+    "ddos_outage": {
+     "posts": 43,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 11,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.372
+    },
+    "critical_infrastructure": {
+     "posts": 58,
+     "inter_raw": 34,
+     "inter_nonself": 29,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.5
+    }
+   },
+   "ransomware": {
+    "posts": 196,
+    "self_edges": 7,
+    "edges": 15,
+    "per_post_nonself": 0.041,
+    "ratio_vs_rest": 0.173
+   }
+  },
+  "main_minus_top10": {
+   "n": 2021,
+   "edges": 768,
+   "self_edges": 292,
+   "self_share": 0.3802,
+   "CSR_raw": 0.1702,
+   "CSR_raw_ci": [
+    0.147,
+    0.1955
+   ],
+   "perm_p_raw": 0.004599080183963208,
+   "CSR_nonself": 0.1064,
+   "CSR_nonself_ci": [
+    0.0905,
+    0.1237
+   ],
+   "perm_p_nonself": 0.003199360127974405,
+   "topics": {
+    "phishing_scam": {
+     "posts": 157,
+     "inter_raw": 41,
+     "inter_nonself": 17,
+     "rank_posts": 4,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.108
+    },
+    "unassigned": {
+     "posts": 472,
+     "inter_raw": 200,
+     "inter_nonself": 132,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.28
+    },
+    "data_breach": {
+     "posts": 484,
+     "inter_raw": 262,
+     "inter_nonself": 203,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.419
+    },
+    "vulnerability_cve": {
+     "posts": 331,
+     "inter_raw": 60,
+     "inter_nonself": 9,
+     "rank_posts": 3,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.027
+    },
+    "policy_regulation": {
+     "posts": 87,
+     "inter_raw": 31,
+     "inter_nonself": 12,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.138
+    },
+    "gov_advisory": {
+     "posts": 118,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 6,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.246
+    },
+    "fraud_financial": {
+     "posts": 44,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 10,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.227
+    },
+    "malware_infostealer": {
+     "posts": 110,
+     "inter_raw": 21,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.109
+    },
+    "ddos_outage": {
+     "posts": 39,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 11,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.41
+    },
+    "ransomware": {
+     "posts": 124,
+     "inter_raw": 14,
+     "inter_nonself": 7,
+     "rank_posts": 5,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.056
+    },
+    "critical_infrastructure": {
+     "posts": 55,
+     "inter_raw": 34,
+     "inter_nonself": 29,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.527
+    }
+   },
+   "ransomware": {
+    "posts": 124,
+    "self_edges": 7,
+    "edges": 14,
+    "per_post_nonself": 0.056,
+    "ratio_vs_rest": 0.228
+   }
+  },
+  "legacy_llm_v2c": {
+   "n": 2491,
+   "edges": 788,
+   "self_edges": 298,
+   "self_share": 0.3782,
+   "CSR_raw": 0.1445,
+   "CSR_raw_ci": [
+    0.1215,
+    0.1703
+   ],
+   "perm_p_raw": 0.0003999200159968006,
+   "CSR_nonself": 0.0911,
+   "CSR_nonself_ci": [
+    0.0766,
+    0.1087
+   ],
+   "perm_p_nonself": 0.0003999200159968006,
+   "topics": {
+    "ransomware": {
+     "posts": 251,
+     "inter_raw": 21,
+     "inter_nonself": 9,
+     "rank_posts": 4,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.036
+    },
+    "phishing_scam": {
+     "posts": 167,
+     "inter_raw": 41,
+     "inter_nonself": 17,
+     "rank_posts": 6,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.102
+    },
+    "unassigned": {
+     "posts": 494,
+     "inter_raw": 205,
+     "inter_nonself": 136,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.275
+    },
+    "data_breach": {
+     "posts": 521,
+     "inter_raw": 264,
+     "inter_nonself": 205,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.393
+    },
+    "vulnerability_cve": {
+     "posts": 487,
+     "inter_raw": 64,
+     "inter_nonself": 13,
+     "rank_posts": 3,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.027
+    },
+    "policy_regulation": {
+     "posts": 92,
+     "inter_raw": 32,
+     "inter_nonself": 13,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.141
+    },
+    "gov_advisory": {
+     "posts": 195,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.149
+    },
+    "fraud_financial": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 11,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.222
+    },
+    "malware_infostealer": {
+     "posts": 128,
+     "inter_raw": 22,
+     "inter_nonself": 13,
+     "rank_posts": 7,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.102
+    },
+    "ddos_outage": {
+     "posts": 50,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 10,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.32
+    },
+    "critical_infrastructure": {
+     "posts": 61,
+     "inter_raw": 34,
+     "inter_nonself": 29,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.475
+    }
+   },
+   "ransomware": {
+    "posts": 251,
+    "self_edges": 12,
+    "edges": 21,
+    "per_post_nonself": 0.036,
+    "ratio_vs_rest": 0.167
+   }
+  },
+  "feeds_behavioral": {
+   "n": 1492,
+   "edges": 696,
+   "self_edges": 237,
+   "self_share": 0.3405,
+   "CSR_raw": 0.2004,
+   "CSR_raw_ci": [
+    0.1756,
+    0.2258
+   ],
+   "perm_p_raw": 0.04299140171965607,
+   "CSR_nonself": 0.1327,
+   "CSR_nonself_ci": [
+    0.1131,
+    0.153
+   ],
+   "perm_p_nonself": 0.02399520095980804,
+   "topics": {
+    "phishing_scam": {
+     "posts": 119,
+     "inter_raw": 39,
+     "inter_nonself": 17,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.143
+    },
+    "unassigned": {
+     "posts": 384,
+     "inter_raw": 187,
+     "inter_nonself": 126,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.328
+    },
+    "data_breach": {
+     "posts": 409,
+     "inter_raw": 248,
+     "inter_nonself": 198,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.484
+    },
+    "policy_regulation": {
+     "posts": 75,
+     "inter_raw": 29,
+     "inter_nonself": 12,
+     "rank_posts": 8,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.16
+    },
+    "vulnerability_cve": {
+     "posts": 139,
+     "inter_raw": 27,
+     "inter_nonself": 7,
+     "rank_posts": 3,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.05
+    },
+    "gov_advisory": {
+     "posts": 88,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.33
+    },
+    "fraud_financial": {
+     "posts": 43,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 10,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.233
+    },
+    "ddos_outage": {
+     "posts": 33,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 11,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.485
+    },
+    "critical_infrastructure": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 27,
+     "rank_posts": 9,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.6
+    },
+    "malware_infostealer": {
+     "posts": 81,
+     "inter_raw": 20,
+     "inter_nonself": 11,
+     "rank_posts": 6,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.136
+    },
+    "ransomware": {
+     "posts": 76,
+     "inter_raw": 9,
+     "inter_nonself": 6,
+     "rank_posts": 7,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.079
+    }
+   },
+   "ransomware": {
+    "posts": 76,
+    "self_edges": 3,
+    "edges": 9,
+    "per_post_nonself": 0.079,
+    "ratio_vs_rest": 0.247
+   }
+  },
+  "feeds_volume_only": {
+   "n": 1373,
+   "edges": 671,
+   "self_edges": 232,
+   "self_share": 0.3458,
+   "CSR_raw": 0.2076,
+   "CSR_raw_ci": [
+    0.183,
+    0.2331
+   ],
+   "perm_p_raw": 0.14077184563087383,
+   "CSR_nonself": 0.1355,
+   "CSR_nonself_ci": [
+    0.1156,
+    0.1561
+   ],
+   "perm_p_nonself": 0.06598680263947211,
+   "topics": {
+    "phishing_scam": {
+     "posts": 115,
+     "inter_raw": 39,
+     "inter_nonself": 17,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.148
+    },
+    "data_breach": {
+     "posts": 384,
+     "inter_raw": 238,
+     "inter_nonself": 188,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.49
+    },
+    "policy_regulation": {
+     "posts": 72,
+     "inter_raw": 27,
+     "inter_nonself": 10,
+     "rank_posts": 7,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.139
+    },
+    "unassigned": {
+     "posts": 363,
+     "inter_raw": 180,
+     "inter_nonself": 124,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.342
+    },
+    "gov_advisory": {
+     "posts": 80,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.362
+    },
+    "fraud_financial": {
+     "posts": 43,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 9,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.233
+    },
+    "ddos_outage": {
+     "posts": 30,
+     "inter_raw": 22,
+     "inter_nonself": 13,
+     "rank_posts": 11,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.433
+    },
+    "vulnerability_cve": {
+     "posts": 126,
+     "inter_raw": 26,
+     "inter_nonself": 6,
+     "rank_posts": 3,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.048
+    },
+    "critical_infrastructure": {
+     "posts": 44,
+     "inter_raw": 31,
+     "inter_nonself": 26,
+     "rank_posts": 8,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.591
+    },
+    "malware_infostealer": {
+     "posts": 79,
+     "inter_raw": 20,
+     "inter_nonself": 11,
+     "rank_posts": 6,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.139
+    },
+    "ransomware": {
+     "posts": 37,
+     "inter_raw": 8,
+     "inter_nonself": 5,
+     "rank_posts": 10,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.135
+    }
+   },
+   "ransomware": {
+    "posts": 37,
+    "self_edges": 3,
+    "edges": 8,
+    "per_post_nonself": 0.135,
+    "ratio_vs_rest": 0.416
+   }
+  },
+  "feeds_behavioral_no_partial": {
+   "n": 1489,
+   "edges": 678,
+   "self_edges": 237,
+   "self_share": 0.3496,
+   "CSR_raw": 0.1995,
+   "CSR_raw_ci": [
+    0.1753,
+    0.2259
+   ],
+   "perm_p_raw": 0.039192161567686463,
+   "CSR_nonself": 0.1316,
+   "CSR_nonself_ci": [
+    0.1126,
+    0.1522
+   ],
+   "perm_p_nonself": 0.02459508098380324,
+   "topics": {
+    "phishing_scam": {
+     "posts": 119,
+     "inter_raw": 39,
+     "inter_nonself": 17,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.143
+    },
+    "unassigned": {
+     "posts": 383,
+     "inter_raw": 174,
+     "inter_nonself": 113,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.295
+    },
+    "data_breach": {
+     "posts": 408,
+     "inter_raw": 243,
+     "inter_nonself": 193,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.473
+    },
+    "policy_regulation": {
+     "posts": 74,
+     "inter_raw": 29,
+     "inter_nonself": 12,
+     "rank_posts": 8,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.162
+    },
+    "vulnerability_cve": {
+     "posts": 139,
+     "inter_raw": 27,
+     "inter_nonself": 7,
+     "rank_posts": 3,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.05
+    },
+    "gov_advisory": {
+     "posts": 88,
+     "inter_raw": 48,
+     "inter_nonself": 29,
+     "rank_posts": 5,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.33
+    },
+    "fraud_financial": {
+     "posts": 43,
+     "inter_raw": 32,
+     "inter_nonself": 10,
+     "rank_posts": 10,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.233
+    },
+    "ddos_outage": {
+     "posts": 33,
+     "inter_raw": 25,
+     "inter_nonself": 16,
+     "rank_posts": 11,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.485
+    },
+    "critical_infrastructure": {
+     "posts": 45,
+     "inter_raw": 32,
+     "inter_nonself": 27,
+     "rank_posts": 9,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.6
+    },
+    "malware_infostealer": {
+     "posts": 81,
+     "inter_raw": 20,
+     "inter_nonself": 11,
+     "rank_posts": 6,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.136
+    },
+    "ransomware": {
+     "posts": 76,
+     "inter_raw": 9,
+     "inter_nonself": 6,
+     "rank_posts": 7,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.079
+    }
+   },
+   "ransomware": {
+    "posts": 76,
+    "self_edges": 3,
+    "edges": 9,
+    "per_post_nonself": 0.079,
+    "ratio_vs_rest": 0.256
+   }
+  },
+  "strict_canada": {
+   "n": 753,
+   "edges": 349,
+   "self_edges": 100,
+   "self_share": 0.2865,
+   "CSR_raw": 0.1766,
+   "CSR_raw_ci": [
+    0.138,
+    0.2222
+   ],
+   "perm_p_raw": 0.13197360527894422,
+   "CSR_nonself": 0.1235,
+   "CSR_nonself_ci": [
+    0.0958,
+    0.1568
+   ],
+   "perm_p_nonself": 0.1857628474305139,
+   "topics": {
+    "phishing_scam": {
+     "posts": 22,
+     "inter_raw": 8,
+     "inter_nonself": 1,
+     "rank_posts": 6,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.045
+    },
+    "data_breach": {
+     "posts": 282,
+     "inter_raw": 154,
+     "inter_nonself": 121,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.429
+    },
+    "ddos_outage": {
+     "posts": 13,
+     "inter_raw": 5,
+     "inter_nonself": 1,
+     "rank_posts": 8,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.077
+    },
+    "ransomware": {
+     "posts": 150,
+     "inter_raw": 5,
+     "inter_nonself": 2,
+     "rank_posts": 3,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.013
+    },
+    "unassigned": {
+     "posts": 198,
+     "inter_raw": 125,
+     "inter_nonself": 91,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.46
+    },
+    "policy_regulation": {
+     "posts": 23,
+     "inter_raw": 4,
+     "inter_nonself": 3,
+     "rank_posts": 5,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.13
+    },
+    "gov_advisory": {
+     "posts": 14,
+     "inter_raw": 14,
+     "inter_nonself": 10,
+     "rank_posts": 7,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.714
+    },
+    "malware_infostealer": {
+     "posts": 11,
+     "inter_raw": 12,
+     "inter_nonself": 10,
+     "rank_posts": 9,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.909
+    },
+    "critical_infrastructure": {
+     "posts": 7,
+     "inter_raw": 8,
+     "inter_nonself": 7,
+     "rank_posts": 11,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 1.0
+    },
+    "fraud_financial": {
+     "posts": 23,
+     "inter_raw": 13,
+     "inter_nonself": 3,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.13
+    },
+    "vulnerability_cve": {
+     "posts": 10,
+     "inter_raw": 1,
+     "inter_nonself": 0,
+     "rank_posts": 10,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.0
+    }
+   },
+   "ransomware": {
+    "posts": 150,
+    "self_edges": 3,
+    "edges": 5,
+    "per_post_nonself": 0.013,
+    "ratio_vs_rest": 0.033
+   }
+  },
+  "strict_canada_feeds_behavioral": {
+   "n": 525,
+   "edges": 327,
+   "self_edges": 87,
+   "self_share": 0.2661,
+   "CSR_raw": 0.2229,
+   "CSR_raw_ci": [
+    0.1775,
+    0.2708
+   ],
+   "perm_p_raw": 0.382123575284943,
+   "CSR_nonself": 0.16,
+   "CSR_nonself_ci": [
+    0.1252,
+    0.1996
+   ],
+   "perm_p_nonself": 0.42451509698060386,
+   "topics": {
+    "phishing_scam": {
+     "posts": 18,
+     "inter_raw": 6,
+     "inter_nonself": 1,
+     "rank_posts": 6,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.056
+    },
+    "data_breach": {
+     "posts": 236,
+     "inter_raw": 147,
+     "inter_nonself": 117,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.496
+    },
+    "ddos_outage": {
+     "posts": 6,
+     "inter_raw": 5,
+     "inter_nonself": 1,
+     "rank_posts": 11,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.167
+    },
+    "ransomware": {
+     "posts": 39,
+     "inter_raw": 1,
+     "inter_nonself": 1,
+     "rank_posts": 3,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.026
+    },
+    "unassigned": {
+     "posts": 142,
+     "inter_raw": 117,
+     "inter_nonself": 88,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.62
+    },
+    "policy_regulation": {
+     "posts": 21,
+     "inter_raw": 3,
+     "inter_nonself": 2,
+     "rank_posts": 5,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.095
+    },
+    "gov_advisory": {
+     "posts": 14,
+     "inter_raw": 14,
+     "inter_nonself": 10,
+     "rank_posts": 7,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.714
+    },
+    "malware_infostealer": {
+     "posts": 10,
+     "inter_raw": 12,
+     "inter_nonself": 10,
+     "rank_posts": 8,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 1.0
+    },
+    "fraud_financial": {
+     "posts": 23,
+     "inter_raw": 13,
+     "inter_nonself": 3,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.13
+    },
+    "vulnerability_cve": {
+     "posts": 10,
+     "inter_raw": 1,
+     "inter_nonself": 0,
+     "rank_posts": 9,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.0
+    },
+    "critical_infrastructure": {
+     "posts": 6,
+     "inter_raw": 8,
+     "inter_nonself": 7,
+     "rank_posts": 10,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 1.167
+    }
+   },
+   "ransomware": {
+    "posts": 39,
+    "self_edges": 0,
+    "edges": 1,
+    "per_post_nonself": 0.026,
+    "ratio_vs_rest": 0.052
+   }
+  },
+  "strict_canada_feeds_volume_only": {
+   "n": 456,
+   "edges": 317,
+   "self_edges": 82,
+   "self_share": 0.2587,
+   "CSR_raw": 0.2434,
+   "CSR_raw_ci": [
+    0.2012,
+    0.2876
+   ],
+   "perm_p_raw": 0.6632673465306939,
+   "CSR_nonself": 0.1754,
+   "CSR_nonself_ci": [
+    0.1403,
+    0.2134
+   ],
+   "perm_p_nonself": 0.5716856628674265,
+   "topics": {
+    "phishing_scam": {
+     "posts": 18,
+     "inter_raw": 6,
+     "inter_nonself": 1,
+     "rank_posts": 5,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.056
+    },
+    "data_breach": {
+     "posts": 222,
+     "inter_raw": 144,
+     "inter_nonself": 114,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.514
+    },
+    "ddos_outage": {
+     "posts": 5,
+     "inter_raw": 5,
+     "inter_nonself": 1,
+     "rank_posts": 10,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.2
+    },
+    "unassigned": {
+     "posts": 128,
+     "inter_raw": 110,
+     "inter_nonself": 86,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.672
+    },
+    "policy_regulation": {
+     "posts": 21,
+     "inter_raw": 3,
+     "inter_nonself": 2,
+     "rank_posts": 4,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.095
+    },
+    "malware_infostealer": {
+     "posts": 10,
+     "inter_raw": 12,
+     "inter_nonself": 10,
+     "rank_posts": 7,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 1.0
+    },
+    "fraud_financial": {
+     "posts": 23,
+     "inter_raw": 13,
+     "inter_nonself": 3,
+     "rank_posts": 3,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.13
+    },
+    "ransomware": {
+     "posts": 5,
+     "inter_raw": 1,
+     "inter_nonself": 1,
+     "rank_posts": 11,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.2
+    },
+    "vulnerability_cve": {
+     "posts": 7,
+     "inter_raw": 1,
+     "inter_nonself": 0,
+     "rank_posts": 8,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.0
+    },
+    "gov_advisory": {
+     "posts": 11,
+     "inter_raw": 14,
+     "inter_nonself": 10,
+     "rank_posts": 6,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.909
+    },
+    "critical_infrastructure": {
+     "posts": 6,
+     "inter_raw": 8,
+     "inter_nonself": 7,
+     "rank_posts": 9,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 1.167
+    }
+   },
+   "ransomware": {
+    "posts": 5,
+    "self_edges": 0,
+    "edges": 1,
+    "per_post_nonself": 0.2,
+    "ratio_vs_rest": 0.385
+   }
+  }
+ },
+ "strict_canada_n": 753,
+ "rank_changes": {
+  "ransomware": {
+   "post_rank": 4,
+   "post_rank_feeds_beh": 7,
+   "post_rank_feeds_vol": 10,
+   "inter_rank_raw": 11,
+   "inter_rank_nonself": 11,
+   "inter_rank_both_beh": 11,
+   "inter_rank_both_vol": 11
+  },
+  "phishing_scam": {
+   "post_rank": 6,
+   "post_rank_feeds_beh": 4,
+   "post_rank_feeds_vol": 4,
+   "inter_rank_raw": 5,
+   "inter_rank_nonself": 5,
+   "inter_rank_both_beh": 5,
+   "inter_rank_both_vol": 5
+  },
+  "unassigned": {
+   "post_rank": 3,
+   "post_rank_feeds_beh": 2,
+   "post_rank_feeds_vol": 2,
+   "inter_rank_raw": 2,
+   "inter_rank_nonself": 2,
+   "inter_rank_both_beh": 2,
+   "inter_rank_both_vol": 2
+  },
+  "data_breach": {
+   "post_rank": 1,
+   "post_rank_feeds_beh": 1,
+   "post_rank_feeds_vol": 1,
+   "inter_rank_raw": 1,
+   "inter_rank_nonself": 1,
+   "inter_rank_both_beh": 1,
+   "inter_rank_both_vol": 1
+  },
+  "vulnerability_cve": {
+   "post_rank": 2,
+   "post_rank_feeds_beh": 3,
+   "post_rank_feeds_vol": 3,
+   "inter_rank_raw": 3,
+   "inter_rank_nonself": 8,
+   "inter_rank_both_beh": 10,
+   "inter_rank_both_vol": 10
+  },
+  "policy_regulation": {
+   "post_rank": 8,
+   "post_rank_feeds_beh": 8,
+   "post_rank_feeds_vol": 7,
+   "inter_rank_raw": 8,
+   "inter_rank_nonself": 7,
+   "inter_rank_both_beh": 7,
+   "inter_rank_both_vol": 9
+  },
+  "gov_advisory": {
+   "post_rank": 5,
+   "post_rank_feeds_beh": 5,
+   "post_rank_feeds_vol": 5,
+   "inter_rank_raw": 4,
+   "inter_rank_nonself": 4,
+   "inter_rank_both_beh": 3,
+   "inter_rank_both_vol": 3
+  },
+  "fraud_financial": {
+   "post_rank": 11,
+   "post_rank_feeds_beh": 10,
+   "post_rank_feeds_vol": 9,
+   "inter_rank_raw": 7,
+   "inter_rank_nonself": 10,
+   "inter_rank_both_beh": 9,
+   "inter_rank_both_vol": 8
+  },
+  "malware_infostealer": {
+   "post_rank": 7,
+   "post_rank_feeds_beh": 6,
+   "post_rank_feeds_vol": 6,
+   "inter_rank_raw": 10,
+   "inter_rank_nonself": 9,
+   "inter_rank_both_beh": 8,
+   "inter_rank_both_vol": 7
+  },
+  "ddos_outage": {
+   "post_rank": 10,
+   "post_rank_feeds_beh": 11,
+   "post_rank_feeds_vol": 11,
+   "inter_rank_raw": 9,
+   "inter_rank_nonself": 6,
+   "inter_rank_both_beh": 6,
+   "inter_rank_both_vol": 6
+  },
+  "critical_infrastructure": {
+   "post_rank": 9,
+   "post_rank_feeds_beh": 9,
+   "post_rank_feeds_vol": 8,
+   "inter_rank_raw": 6,
+   "inter_rank_nonself": 3,
+   "inter_rank_both_beh": 4,
+   "inter_rank_both_vol": 4
+  }
+ },
+ "rule_disagreement_accounts": [
+  {
+   "account": "ecrime.ch",
+   "actor_type_v1": "intel_feed_raw",
+   "rule": "volume_only",
+   "main_seeds": 35,
+   "top_topics": [
+    [
+     "ransomware",
+     35
+    ]
+   ]
+  },
+  {
+   "account": "anon:58cbfb43",
+   "actor_type_v1": "unclassified",
+   "rule": "volume_only",
+   "main_seeds": 15,
+   "top_topics": [
+    [
+     "unassigned",
+     6
+    ],
+    [
+     "data_breach",
+     4
+    ]
+   ]
+  },
+  {
+   "account": "cybersci.bsky.social",
+   "actor_type_v1": "org_reaching",
+   "rule": "volume_only",
+   "main_seeds": 10,
+   "top_topics": [
+    [
+     "unassigned",
+     10
+    ]
+   ]
+  },
+  {
+   "account": "infosec.skyfleet.blue",
+   "actor_type_v1": "org_unheard",
+   "rule": "volume_only",
+   "main_seeds": 7,
+   "top_topics": [
+    [
+     "vulnerability_cve",
+     5
+    ],
+    [
+     "critical_infrastructure",
+     1
+    ]
+   ]
+  },
+  {
+   "account": "anon:0d1e8e43",
+   "actor_type_v1": "no_profile",
+   "rule": "volume_only",
+   "main_seeds": 7,
+   "top_topics": [
+    [
+     "vulnerability_cve",
+     3
+    ],
+    [
+     "unassigned",
+     2
+    ]
+   ]
+  },
+  {
+   "account": "anon:bf3c72c8",
+   "actor_type_v1": "no_profile",
+   "rule": "volume_only",
+   "main_seeds": 7,
+   "top_topics": [
+    [
+     "data_breach",
+     3
+    ],
+    [
+     "policy_regulation",
+     2
+    ]
+   ]
+  },
+  {
+   "account": "andyjabbour.bsky.social",
+   "actor_type_v1": "org_reaching",
+   "rule": "volume_only",
+   "main_seeds": 6,
+   "top_topics": [
+    [
+     "gov_advisory",
+     3
+    ],
+    [
+     "unassigned",
+     2
+    ]
+   ]
+  },
+  {
+   "account": "journodale.bsky.social",
+   "actor_type_v1": "news_with_reach",
+   "rule": "volume_only",
+   "main_seeds": 6,
+   "top_topics": [
+    [
+     "data_breach",
+     6
+    ]
+   ]
+  },
+  {
+   "account": "trueeager.bsky.social",
+   "actor_type_v1": "news_with_reach",
+   "rule": "volume_only",
+   "main_seeds": 6,
+   "top_topics": [
+    [
+     "data_breach",
+     6
+    ]
+   ]
+  },
+  {
+   "account": "hackread.bsky.social",
+   "actor_type_v1": "news_with_reach",
+   "rule": "volume_only",
+   "main_seeds": 5,
+   "top_topics": [
+    [
+     "vulnerability_cve",
+     2
+    ],
+    [
+     "phishing_scam",
+     1
+    ]
+   ]
+  },
+  {
+   "account": "theitnerd.ca",
+   "actor_type_v1": "org_unheard",
+   "rule": "volume_only",
+   "main_seeds": 5,
+   "top_topics": [
+    [
+     "gov_advisory",
+     2
+    ],
+    [
+     "vulnerability_cve",
+     1
+    ]
+   ]
+  },
+  {
+   "account": "anon:11f40a17",
+   "actor_type_v1": "no_profile",
+   "rule": "volume_only",
+   "main_seeds": 5,
+   "top_topics": [
+    [
+     "data_breach",
+     3
+    ],
+    [
+     "policy_regulation",
+     1
+    ]
+   ]
+  },
+  {
+   "account": "anon:27d6bafa",
+   "actor_type_v1": "no_profile",
+   "rule": "volume_only",
+   "main_seeds": 5,
+   "top_topics": [
+    [
+     "phishing_scam",
+     3
+    ],
+    [
+     "unassigned",
+     1
+    ]
+   ]
+  }
+ ],
+ "audit": {
+  "canada": {
+   "n_primary": 150,
+   "counts": {
+    "no": 99,
+    "yes": 51
+   },
+   "unclear_rate": 0.0,
+   "precision": 0.34,
+   "precision_ci": [
+    0.269,
+    0.419
+   ],
+   "reliability": {
+    "double_coded": 60,
+    "raw_agreement": 0.967,
+    "kappa": 0.923,
+    "disagreements": [
+     "C100",
+     "C149"
+    ],
+    "adjudicated_items": 2
+   },
+   "strict_filter": {
+    "precision": 0.9787,
+    "precision_ci": [
+     0.8889,
+     0.9962
+    ],
+    "recall": 0.902,
+    "tp": 46,
+    "fp": 1,
+    "fn": 5
+   }
+  },
+  "feed": {
+   "n_primary": 201,
+   "counts": {
+    "feed": 103,
+    "non_feed": 97,
+    "unclear": 1
+   },
+   "reliability": {
+    "double_coded": 74,
+    "raw_agreement": 0.784,
+    "kappa": 0.576,
+    "disagreements": [
+     "F005",
+     "F006",
+     "F017",
+     "F034",
+     "F042",
+     "F052",
+     "F058",
+     "F068",
+     "F105",
+     "F123",
+     "F128",
+     "F162",
+     "F165",
+     "F170",
+     "F173",
+     "F185"
+    ],
+    "adjudicated_items": 17,
+    "kappa_role": 0.586
+   },
+   "rules": {
+    "behavioral_v1": {
+     "confusion(rule_flag,human)": {
+      "0,feed": 60,
+      "0,non_feed": 78,
+      "0,unclear": 1,
+      "1,feed": 43,
+      "1,non_feed": 19
+     },
+     "precision": 0.694,
+     "recall": 0.417
+    },
+    "volume_only": {
+     "confusion(rule_flag,human)": {
+      "0,feed": 53,
+      "0,non_feed": 72,
+      "0,unclear": 1,
+      "1,feed": 50,
+      "1,non_feed": 25
+     },
+     "precision": 0.667,
+     "recall": 0.485
+    }
+   }
+  },
+  "main_with_human_feeds": {
+   "n": 1436,
+   "edges": 679,
+   "self_edges": 233,
+   "self_share": 0.3432,
+   "CSR_raw": 0.1992,
+   "CSR_raw_ci": [
+    0.174,
+    0.2274
+   ],
+   "perm_p_raw": 0.04919016196760648,
+   "CSR_nonself": 0.1302,
+   "CSR_nonself_ci": [
+    0.1106,
+    0.1513
+   ],
+   "perm_p_nonself": 0.022595480903819236,
+   "topics": {
+    "phishing_scam": {
+     "posts": 124,
+     "inter_raw": 38,
+     "inter_nonself": 16,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.129
+    },
+    "data_breach": {
+     "posts": 373,
+     "inter_raw": 243,
+     "inter_nonself": 192,
+     "rank_posts": 2,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.515
+    },
+    "unassigned": {
+     "posts": 396,
+     "inter_raw": 188,
+     "inter_nonself": 125,
+     "rank_posts": 1,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.316
+    },
+    "vulnerability_cve": {
+     "posts": 133,
+     "inter_raw": 24,
+     "inter_nonself": 6,
+     "rank_posts": 3,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.045
+    },
+    "policy_regulation": {
+     "posts": 73,
+     "inter_raw": 29,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.164
+    },
+    "gov_advisory": {
+     "posts": 90,
+     "inter_raw": 45,
+     "inter_nonself": 26,
+     "rank_posts": 5,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.289
+    },
+    "fraud_financial": {
+     "posts": 38,
+     "inter_raw": 27,
+     "inter_nonself": 9,
+     "rank_posts": 10,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.237
+    },
+    "ddos_outage": {
+     "posts": 34,
+     "inter_raw": 24,
+     "inter_nonself": 16,
+     "rank_posts": 11,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.471
+    },
+    "ransomware": {
+     "posts": 46,
+     "inter_raw": 8,
+     "inter_nonself": 5,
+     "rank_posts": 9,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.109
+    },
+    "critical_infrastructure": {
+     "posts": 46,
+     "inter_raw": 33,
+     "inter_nonself": 28,
+     "rank_posts": 8,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.609
+    },
+    "malware_infostealer": {
+     "posts": 83,
+     "inter_raw": 20,
+     "inter_nonself": 11,
+     "rank_posts": 6,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.133
+    }
+   },
+   "ransomware": {
+    "posts": 46,
+    "self_edges": 3,
+    "edges": 8,
+    "per_post_nonself": 0.109,
+    "ratio_vs_rest": 0.343
+   }
+  },
+  "strict_canada_with_human_feeds": {
+   "n": 484,
+   "edges": 317,
+   "self_edges": 84,
+   "self_share": 0.265,
+   "CSR_raw": 0.2273,
+   "CSR_raw_ci": [
+    0.1795,
+    0.2756
+   ],
+   "perm_p_raw": 0.705258948210358,
+   "CSR_nonself": 0.1632,
+   "CSR_nonself_ci": [
+    0.1262,
+    0.2039
+   ],
+   "perm_p_nonself": 0.6456708658268346,
+   "topics": {
+    "phishing_scam": {
+     "posts": 19,
+     "inter_raw": 6,
+     "inter_nonself": 1,
+     "rank_posts": 5,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.053
+    },
+    "data_breach": {
+     "posts": 221,
+     "inter_raw": 147,
+     "inter_nonself": 114,
+     "rank_posts": 1,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.516
+    },
+    "ddos_outage": {
+     "posts": 6,
+     "inter_raw": 4,
+     "inter_nonself": 1,
+     "rank_posts": 10,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.167
+    },
+    "unassigned": {
+     "posts": 160,
+     "inter_raw": 115,
+     "inter_nonself": 86,
+     "rank_posts": 2,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.537
+    },
+    "policy_regulation": {
+     "posts": 21,
+     "inter_raw": 3,
+     "inter_nonself": 2,
+     "rank_posts": 3,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.095
+    },
+    "malware_infostealer": {
+     "posts": 9,
+     "inter_raw": 12,
+     "inter_nonself": 10,
+     "rank_posts": 7,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 1.111
+    },
+    "fraud_financial": {
+     "posts": 20,
+     "inter_raw": 8,
+     "inter_nonself": 2,
+     "rank_posts": 4,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.1
+    },
+    "ransomware": {
+     "posts": 7,
+     "inter_raw": 1,
+     "inter_nonself": 1,
+     "rank_posts": 8,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.143
+    },
+    "vulnerability_cve": {
+     "posts": 3,
+     "inter_raw": 0,
+     "inter_nonself": 0,
+     "rank_posts": 11,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.0
+    },
+    "gov_advisory": {
+     "posts": 12,
+     "inter_raw": 13,
+     "inter_nonself": 9,
+     "rank_posts": 6,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.75
+    },
+    "critical_infrastructure": {
+     "posts": 6,
+     "inter_raw": 8,
+     "inter_nonself": 7,
+     "rank_posts": 9,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 1.167
+    }
+   },
+   "ransomware": {
+    "posts": 7,
+    "self_edges": 0,
+    "edges": 1,
+    "per_post_nonself": 0.143,
+    "ratio_vs_rest": 0.294
+   }
+  },
+  "main_with_human_feeds_or_unclear": {
+   "n": 1433,
+   "edges": 679,
+   "self_edges": 233,
+   "self_share": 0.3432,
+   "CSR_raw": 0.1996,
+   "CSR_raw_ci": [
+    0.1729,
+    0.2259
+   ],
+   "perm_p_raw": 0.060387922415516895,
+   "CSR_nonself": 0.1305,
+   "CSR_nonself_ci": [
+    0.111,
+    0.1518
+   ],
+   "perm_p_nonself": 0.02519496100779844,
+   "topics": {
+    "phishing_scam": {
+     "posts": 124,
+     "inter_raw": 38,
+     "inter_nonself": 16,
+     "rank_posts": 4,
+     "rank_inter_raw": 4,
+     "rank_inter_nonself": 6,
+     "per_post_nonself": 0.129
+    },
+    "data_breach": {
+     "posts": 372,
+     "inter_raw": 243,
+     "inter_nonself": 192,
+     "rank_posts": 2,
+     "rank_inter_raw": 1,
+     "rank_inter_nonself": 1,
+     "per_post_nonself": 0.516
+    },
+    "unassigned": {
+     "posts": 396,
+     "inter_raw": 188,
+     "inter_nonself": 125,
+     "rank_posts": 1,
+     "rank_inter_raw": 2,
+     "rank_inter_nonself": 2,
+     "per_post_nonself": 0.316
+    },
+    "vulnerability_cve": {
+     "posts": 133,
+     "inter_raw": 24,
+     "inter_nonself": 6,
+     "rank_posts": 3,
+     "rank_inter_raw": 9,
+     "rank_inter_nonself": 10,
+     "per_post_nonself": 0.045
+    },
+    "policy_regulation": {
+     "posts": 73,
+     "inter_raw": 29,
+     "inter_nonself": 12,
+     "rank_posts": 7,
+     "rank_inter_raw": 6,
+     "rank_inter_nonself": 7,
+     "per_post_nonself": 0.164
+    },
+    "gov_advisory": {
+     "posts": 89,
+     "inter_raw": 45,
+     "inter_nonself": 26,
+     "rank_posts": 5,
+     "rank_inter_raw": 3,
+     "rank_inter_nonself": 4,
+     "per_post_nonself": 0.292
+    },
+    "fraud_financial": {
+     "posts": 38,
+     "inter_raw": 27,
+     "inter_nonself": 9,
+     "rank_posts": 10,
+     "rank_inter_raw": 7,
+     "rank_inter_nonself": 9,
+     "per_post_nonself": 0.237
+    },
+    "ddos_outage": {
+     "posts": 34,
+     "inter_raw": 24,
+     "inter_nonself": 16,
+     "rank_posts": 11,
+     "rank_inter_raw": 8,
+     "rank_inter_nonself": 5,
+     "per_post_nonself": 0.471
+    },
+    "ransomware": {
+     "posts": 45,
+     "inter_raw": 8,
+     "inter_nonself": 5,
+     "rank_posts": 9,
+     "rank_inter_raw": 11,
+     "rank_inter_nonself": 11,
+     "per_post_nonself": 0.111
+    },
+    "critical_infrastructure": {
+     "posts": 46,
+     "inter_raw": 33,
+     "inter_nonself": 28,
+     "rank_posts": 8,
+     "rank_inter_raw": 5,
+     "rank_inter_nonself": 3,
+     "per_post_nonself": 0.609
+    },
+    "malware_infostealer": {
+     "posts": 83,
+     "inter_raw": 20,
+     "inter_nonself": 11,
+     "rank_posts": 6,
+     "rank_inter_raw": 10,
+     "rank_inter_nonself": 8,
+     "per_post_nonself": 0.133
+    }
+   },
+   "ransomware": {
+    "posts": 45,
+    "self_edges": 3,
+    "edges": 8,
+    "per_post_nonself": 0.111,
+    "ratio_vs_rest": 0.35
+   }
+  }
+ }
+}

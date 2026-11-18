@@ -1,0 +1,20 @@
+{
+ "source": "sensor outputs/interaction_experiment/descriptive/descriptive.json key count_gap_main (scripts/interaction_descriptive.py)",
+ "count_gap_main": {
+  "repost": {
+   "self_reported": 1439,
+   "retrieved": 1394,
+   "seeds_short": 44
+  },
+  "quote": {
+   "self_reported": 147,
+   "retrieved": 147,
+   "seeds_short": 0
+  },
+  "reply_d1": {
+   "self_reported": 498,
+   "retrieved": 466,
+   "seeds_short": 32
+  }
+ }
+}

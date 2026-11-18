@@ -1,0 +1,48 @@
+{
+ "events": 27,
+ "events_with_cyber_post": 26,
+ "events_in_corpus": 26,
+ "cyber_hits": 144,
+ "accounts": 15,
+ "max_likes_any_hit": 1,
+ "hits_with_zero_likes": 134,
+ "top3_accounts_event_coverage": [
+  26,
+  26,
+  24
+ ],
+ "by_feed_definition": {
+  "behavioral_v1": {
+   "accounts_flagged": 10,
+   "events_with_nonfeed_post": 15,
+   "nonfeed_accounts": 5,
+   "nonfeed_actor_types": [
+    "intel_feed_raw",
+    "news_with_reach",
+    "no_profile",
+    "unclassified"
+   ]
+  },
+  "volume_only": {
+   "accounts_flagged": 11,
+   "events_with_nonfeed_post": 3,
+   "nonfeed_accounts": 4,
+   "nonfeed_actor_types": [
+    "news_with_reach",
+    "no_profile",
+    "unclassified"
+   ]
+  },
+  "actor_v1_intel_feed": {
+   "accounts_flagged": 6,
+   "events_with_nonfeed_post": 13,
+   "nonfeed_accounts": 9,
+   "nonfeed_actor_types": [
+    "news_with_reach",
+    "no_profile",
+    "org_unheard",
+    "unclassified"
+   ]
+  }
+ }
+}

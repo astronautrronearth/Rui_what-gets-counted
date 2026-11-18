@@ -1,0 +1,47 @@
+{
+ "note": "feed-rule threshold sensitivity, main window, exact matching, b=5 (scripts/www_eval_registry_feedrule.py; no new data)",
+ "runs": {
+  "n10_d4": {
+   "flagged": 140,
+   "Q1_posts": 27.96,
+   "Q2_authors": 31.36,
+   "Q4_capped": 29.74,
+   "Q5_nofeed": 3.62
+  },
+  "n20_d4": {
+   "flagged": 69,
+   "Q1_posts": 27.96,
+   "Q2_authors": 31.36,
+   "Q4_capped": 29.74,
+   "Q5_nofeed": 4.92
+  },
+  "n3_d4": {
+   "flagged": 273,
+   "Q1_posts": 27.96,
+   "Q2_authors": 31.36,
+   "Q4_capped": 29.74,
+   "Q5_nofeed": 2.9
+  },
+  "n5_d3": {
+   "flagged": 302,
+   "Q1_posts": 27.96,
+   "Q2_authors": 31.36,
+   "Q4_capped": 29.74,
+   "Q5_nofeed": 2.92
+  },
+  "n5_d4": {
+   "flagged": 251,
+   "Q1_posts": 27.96,
+   "Q2_authors": 31.36,
+   "Q4_capped": 29.74,
+   "Q5_nofeed": 2.76
+  },
+  "n5_d5": {
+   "flagged": 186,
+   "Q1_posts": 27.96,
+   "Q2_authors": 31.36,
+   "Q4_capped": 29.74,
+   "Q5_nofeed": 2.84
+  }
+ }
+}

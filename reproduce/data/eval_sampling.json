@@ -1,0 +1,45 @@
+{
+ "n_roots": 59085,
+ "incidence_overall": 0.1004,
+ "pages_full": 177447,
+ "pages_per_root_mean": 3.003,
+ "activity_note": "history-day posts <= 1, 2-4, 5+ (PREREG said 1, 2-4, 5+)",
+ "designs": {
+  "uniform_10": {
+   "mae": 0.0406,
+   "coverage95": 0.82,
+   "top3_recovery": 0.636,
+   "pages_share": 0.1
+  },
+  "uniform_25": {
+   "mae": 0.0239,
+   "coverage95": 0.902,
+   "top3_recovery": 0.748,
+   "pages_share": 0.25
+  },
+  "uniform_50": {
+   "mae": 0.0137,
+   "coverage95": 0.927,
+   "top3_recovery": 0.855,
+   "pages_share": 0.5
+  },
+  "stratified_10": {
+   "mae": 0.04,
+   "coverage95": 0.808,
+   "top3_recovery": 0.631,
+   "pages_share": 0.1
+  },
+  "stratified_25": {
+   "mae": 0.0229,
+   "coverage95": 0.907,
+   "top3_recovery": 0.757,
+   "pages_share": 0.25
+  },
+  "stratified_50": {
+   "mae": 0.0134,
+   "coverage95": 0.927,
+   "top3_recovery": 0.863,
+   "pages_share": 0.5
+  }
+ }
+}

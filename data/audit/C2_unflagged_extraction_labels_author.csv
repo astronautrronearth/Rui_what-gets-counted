@@ -1,0 +1,41 @@
+item_id,names_victim,extraction,missed_victims,notes
+X001,no,"none extracted, correctly",,
+X002,yes,all correct,,
+X003,no,"none extracted, correctly",,
+X004,no,"none extracted, correctly",,
+X005,no,"none extracted, correctly",,
+X006,no,"none extracted, correctly",,
+X007,no,wrong,,"MonsterCloud is a ransomware recovery service provider, not a victim. The post refers to unnamed ransomware victims and does not identify any specific victim organization."
+X008,no,"none extracted, correctly",,
+X009,no,"none extracted, correctly",,
+X010,no,"none extracted, correctly",,
+X011,yes,all correct,,
+X012,no,wrong,,"Synology is the NAS vendor, not a ransomware victim. The post discusses ransomware targeting outdated Synology DSM versions without naming any specific victim organization."
+X013,no,"none extracted, correctly",,
+X014,no,"none extracted, correctly",,
+X015,no,wrong,,"Star Wars Galaxies Legends is a community-run MMO server, not an explicitly identified ransomware victim. The post describes assets being decrypted by a hacker, without mentioning a ransomware attack or extortion."
+X016,no,"none extracted, correctly",,
+X017,no,"none extracted, correctly",,
+X018,no,"none extracted, correctly",,
+X019,no,wrong,,"SafePay is the ransomware group, not a victim organization. The post mentions over 600 unnamed critical infrastructure organizations but does not identify any specific victim."
+X020,no,wrong,,"Conti is a ransomware group, not a victim organization. The post discusses the sentencing of an individual linked to ransomware attacks without naming any specific victim."
+X021,yes,all correct,,
+X022,no,"none extracted, correctly",,
+X023,no,wrong,,"""Law firm"" is a generic term, not a named victim organization. The post describes a hypothetical ransomware scenario to promote backup solutions."
+X024,yes,all correct,,
+X025,no,"none extracted, correctly",,
+X026,no,"none extracted, correctly",,
+X027,yes,all correct,,
+X028,yes,all correct,,
+X029,no,"none extracted, correctly",,
+X030,yes,all correct,,
+X031,no,wrong,,"Space Exploration Technologies Corp. is mentioned as a purported company associated with Cursor, not as a ransomware victim. Cursor is an AI coding assistant, Aurora is a ransomware group, and the actual victims are unnamed organizations."
+X032,no,"none extracted, correctly",,
+X033,no,"none extracted, correctly",,
+X034,yes,all correct,,
+X035,yes,unsure,,unsure about the meaning of Uni
+X036,no,"none extracted, correctly",,
+X037,no,wrong,,"""22,000-student district"" is a descriptive phrase referring to an unnamed school district, not a specific named victim organization."
+X038,yes,all correct,,
+X039,yes,all correct,,
+X040,yes,all correct,,

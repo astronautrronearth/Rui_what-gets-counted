@@ -1,0 +1,173 @@
+item_id,candidate,event_id,rule_Q1_posts,rule_Q2_authors,rule_Q3_dedup,rule_Q4_capped,rule_Q5_nofeed,rule_authors,rule_edges,rule_nofeed,rule_posts,rule_responders,window
+M107,meridian forest services,rl:CA:beast:meridian forest services:2026-08-16,1,1,1,1,0,,,,,,main
+M054,multiver ltée,rl:CA:incransom:multiver:2026-09-01,1,1,1,1,0,,,,,,main
+M141,inglewood golf,rl:CA:play:inglewood golf:2026-09-18,0,0,0,0,1,,,,,,main
+M064,vista plastic solutions,rl:CA:play:vista plastic solutions:2026-09-18,1,1,1,1,0,,,,,,main
+M049,coldfish seafood,rl:CA:qilin:coldfish seafood:2026-08-24,1,1,1,1,0,,,,,,main
+M010,commission de la construction du quebec,rl:CA:qilin:commission de la construction du quebec:2026-09-01,1,1,1,1,0,,,,,,main
+M171,air canada,rl:CA:thegentlemen:air canada:2026-09-09,1,1,1,1,0,,,,,,main
+M073,rosello et fils,rl:FR:Eclipse:rosello et fils:2026-09-14,1,1,1,1,0,,,,,,main
+M131,thema foundries,rl:FR:qilin:thema foundries:2026-09-16,1,1,1,1,0,,,,,,main
+M006,morgan services,rl:GB:AiLock:morgan services:2026-08-26,0,1,1,0,0,,,,,,main
+M035,ben leeds properties,rl:GB:ShadowByt3$:ben leeds properties:2026-09-07,1,0,1,1,0,,,,,,main
+M161,brent electric,rl:GB:akira:brent electric:2026-09-08,0,0,1,0,0,,,,,,main
+M057,owen leigh optometry,rl:GB:dragonforce:owen leigh optometry:2026-09-16,1,1,1,1,0,,,,,,main
+M047,manchester airports,rl:GB:fulcrumsec:manchester airports:2026-09-01,1,1,1,1,0,,,,,,main
+M116,air international thermal systems,rl:GB:qilin:air international thermal systems:2026-08-26,1,1,1,1,0,,,,,,main
+M119,dab investments,rl:GB:qilin:dab investments:2026-08-27,0,1,1,0,0,,,,,,main
+M042,gilco scaffolding,rl:GB:qilin:gilco scaffolding:2026-09-13,1,1,1,1,0,,,,,,main
+M104,metal conversions,rl:GB:qilin:metal conversions:2026-08-26,1,1,1,1,0,,,,,,main
+M069,whitehouse,rl:GB:qilin:whitehouse:2026-08-28,1,1,1,1,0,,,,,,main
+M099,atlas ocean voyages,rl:US:Booba Project:atlas ocean voyages:2026-09-14,1,0,1,1,0,,,,,,main
+M156,mestechkin law p c,rl:US:Booba Project:mestechkin law p c:2026-09-14,1,1,1,1,0,,,,,,main
+M089,aecom,rl:US:BrainCipher:aecom.com:2026-09-17,1,0,1,1,0,,,,,,main
+M134,pump engineering,rl:US:Dark Project:pump engineering:2026-08-25,0,1,1,0,0,,,,,,main
+M070,specchem,rl:US:Dark Project:specchem:2026-09-09,1,1,0,1,0,,,,,,main
+M162,the liberty,rl:US:Dark Project:the liberty:2026-08-24,1,1,1,1,0,,,,,,main
+M055,globus medical,rl:US:Falcon:globus medical:2026-08-21,1,0,1,1,0,,,,,,main
+M017,premier lighting controls,rl:US:Gammax:premier lighting controls:2026-09-18,1,1,1,1,0,,,,,,main
+M068,quality resource pvt,rl:US:Global Secret Group:quality resource pvt:2026-09-01,1,1,1,1,0,,,,,,main
+M039,central florida civil,rl:US:Orova:central florida civil:2026-08-25,1,1,1,1,0,,,,,,main
+M021,bayview real estate,rl:US:ShadowByt3$:bayview real estate:2026-08-29,1,0,1,1,0,,,,,,main
+M118,greenberg traurig,rl:US:SilentRansomGroup:greenberg traurig:2026-09-02,1,1,1,1,1,,,,,,main
+M033,johnson investment counsel,rl:US:Storm:johnson investment counsel:2026-09-18,1,1,1,1,0,,,,,,main
+M112,star aviation,rl:US:Storm:star aviation:2026-09-02,1,1,1,1,0,,,,,,main
+M105,technology dynamics,rl:US:Storm:technology dynamics:2026-09-08,1,1,1,1,0,,,,,,main
+M031,cedar county memorial hospital,rl:US:Wallstreet:cedar county memorial hospital:2026-08-31,1,1,1,1,0,,,,,,main
+M149,anderson industries,rl:US:akira:anderson industries:2026-09-18,1,1,1,1,0,,,,,,main
+M018,brentwood country club,rl:US:akira:brentwood country club:2026-09-08,1,1,1,1,0,,,,,,main
+M101,benshaw,rl:US:aurora:benshaw:2026-08-27,1,1,1,1,0,,,,,,main
+M157,chip 1 exchange,rl:US:aurora:chip 1 exchange:2026-09-02,0,1,0,0,0,,,,,,main
+M114,jinny beauty supply,rl:US:aurora:jinny beauty supply:2026-09-07,1,1,1,1,0,,,,,,main
+M153,harley davidson,rl:US:clop:harley-davidson.com:2026-09-10,1,1,1,1,0,,,,,,main
+M168,sales boomerang,rl:US:direwolf:sales boomerang:2026-09-08,1,0,0,1,0,,,,,,main
+M088,wolfram research,rl:US:direwolf:wolfram research:2026-09-04,1,1,1,1,0,,,,,,main
+M052,homewood sales,rl:US:dragonforce:homewood sales:2026-09-04,1,1,1,1,0,,,,,,main
+M145,norwood law firm,rl:US:dragonforce:norwood law firm:2026-09-04,1,1,1,1,0,,,,,,main
+M166,jms building,rl:US:incransom:jms building:2026-09-10,1,1,1,1,0,,,,,,main
+M001,ruby seven studios,rl:US:incransom:ruby seven studios:2026-08-27,1,1,1,1,0,,,,,,main
+M158,westfield public school district,rl:US:incransom:westfield public school district:2026-09-01,1,1,1,1,0,,,,,,main
+M056,wiggins childs pantazis fisher goldfarb,rl:US:insomnia:wiggins childs pantazis fisher goldfarb:2026-09-15,1,1,1,1,1,,,,,,main
+M163,springfield public schools,rl:US:interlock:springfield public schools:2026-09-15,1,1,1,1,1,,,,,,main
+M036,super systems,rl:US:interlock:super systems:2026-08-31,1,1,1,1,0,,,,,,main
+M025,aecom,rl:US:metaencryptor:aecom:2026-09-17,1,0,1,1,0,,,,,,main
+M072,procare,rl:US:moneymessage:procare:2026-08-28,1,1,1,1,0,,,,,,main
+M133,foss,rl:US:pear:foss:2026-09-09,1,1,1,1,0,,,,,,main
+M034,kovo healthtech,rl:US:pear:kovo healthtech:2026-09-02,1,1,1,1,0,,,,,,main
+M014,mogren glessner ahrens p s,rl:US:pear:mogren glessner ahrens p s:2026-08-20,1,1,1,1,0,,,,,,main
+M071,figgins family wine estates,rl:US:play:figgins family wine estates:2026-08-31,1,1,1,1,0,,,,,,main
+M125,krc machine tool solutions,rl:US:play:krc machine tool solutions:2026-08-31,1,1,1,1,0,,,,,,main
+M083,colonial hyundai,rl:US:qilin:colonial hyundai:2026-09-05,1,1,1,1,0,,,,,,main
+M030,g s technologies,rl:US:qilin:g s technologies:2026-09-05,1,1,1,1,0,,,,,,main
+M061,imperial healthcare solutions,rl:US:qilin:imperial healthcare solutions:2026-09-11,1,1,1,1,0,,,,,,main
+M160,jet specialty,rl:US:qilin:jet specialty:2026-09-09,1,1,1,1,0,,,,,,main
+M063,montana civil contractors,rl:US:qilin:montana civil contractors:2026-09-15,1,1,1,1,1,,,,,,main
+M029,roadex america,rl:US:qilin:roadex america:2026-09-14,1,1,1,1,0,,,,,,main
+M084,winston contracting,rl:US:qilin:winston contracting:2026-09-14,1,1,1,1,0,,,,,,main
+M012,cri electric,rl:US:rhysida:cri electric:2026-08-22,1,1,1,1,0,,,,,,main
+M003,prefix,rl:US:securotrop:prefix:2026-09-18,1,1,1,1,0,,,,,,main
+M087,shelco filters,rl:US:securotrop:shelco filters:2026-09-12,1,1,1,1,0,,,,,,main
+M121,bok financial,rl:US:shinyhunters:bok financial:2026-08-22,0,1,0,0,0,,,,,,main
+M091,cyrusone,rl:US:shinyhunters:cyrusone:2026-08-23,1,1,1,1,0,,,,,,main
+M013,mckesson,rl:US:shinyhunters:mckesson:2026-08-28,0,0,0,0,1,,,,,,main
+M065,neogen,rl:US:shinyhunters:neogen:2026-08-29,0,1,1,0,0,,,,,,main
+M060,reliaquest,rl:US:shinyhunters:reliaquest:2026-08-23,1,1,1,1,0,,,,,,main
+M078,d max engineering,rl:US:spacebears:d max engineering:2026-09-05,1,1,1,1,0,,,,,,main
+M098,careersource palm beach county,rl:US:thegentlemen:careersource palm beach county:2026-08-31,1,1,1,1,0,,,,,,main
+M076,glassdoor,rl:US:thegentlemen:glassdoor:2026-08-28,0,1,1,0,0,,,,,,main
+M139,leo schachter diamonds,rl:US:thegentlemen:leo schachter diamonds:2026-09-02,1,0,0,1,0,,,,,,main
+M172,veradigm,rl:US:thegentlemen:veradigm:2026-09-04,1,1,1,1,1,,,,,,main
+M110,rcoa regent christian online academy,rl:CA:Booba Project:rcoa regent christian online academy:2026-10-27,,,,,,0,0,1,0,1,fresh
+M113,regent christian online academy,rl:CA:Booba Project:regent christian online academy:2026-10-27,,,,,,0,0,0,1,0,fresh
+M092,psychometrics canada,rl:CA:genesis:psychometrics canada:2026-10-30,,,,,,0,1,0,0,0,fresh
+M127,amsam,rl:FR:bravox:amsam:2026-10-22,,,,,,0,1,0,0,0,fresh
+M020,adl lift services,rl:GB:AuditTeam:adl lift services:2026-10-13,,,,,,0,1,0,0,0,fresh
+M138,safe data storage,rl:GB:AuditTeam:safe data storage:2026-10-13,,,,,,0,0,0,0,1,fresh
+M074,boardman park,rl:GB:Booba Project:boardman park:2026-11-03,,,,,,0,0,0,1,0,fresh
+M082,novagroupgbc,rl:GB:BrainCipher:novagroupgbc.com:2026-10-21,,,,,,0,0,0,0,1,fresh
+M151,antwerp house dentistry,rl:GB:Shiba:antwerp house dentistry:2026-10-29,,,,,,1,0,0,1,0,fresh
+M150,bristol city council,rl:GB:Wallstreet:bristol city council:2026-10-27,,,,,,0,1,1,1,1,fresh
+M096,my cloud grocer,rl:GB:direwolf:my cloud grocer:2026-11-01,,,,,,0,0,0,0,1,fresh
+M079,pwc,rl:GB:everest:pwc:2026-10-22,,,,,,0,1,1,0,0,fresh
+M167,castle howard estate,rl:GB:qilin:castle howard estate:2026-10-24,,,,,,0,0,0,0,1,fresh
+M045,palletline,rl:GB:qilin:palletline:2026-10-30,,,,,,1,0,0,1,1,fresh
+M140,michigan state university,rl:US:BYOD:michigan state university:2026-11-01,,,,,,1,0,1,1,0,fresh
+M148,university of new mexico,rl:US:BYOD:university of new mexico:2026-10-26,,,,,,1,1,0,1,0,fresh
+M122,bass medical,rl:US:Booba Project:bass medical:2026-10-27,,,,,,0,0,1,1,1,fresh
+M016,california school boards association,rl:US:Booba Project:california school boards association:2026-10-29,,,,,,0,1,0,0,0,fresh
+M044,charter township of commerce,rl:US:Booba Project:charter township of commerce:2026-10-27,,,,,,0,0,1,0,0,fresh
+M136,circleville police department,rl:US:Booba Project:circleville police department:2026-10-29,,,,,,0,0,1,0,0,fresh
+M095,city of big spring,rl:US:Booba Project:city of big spring:2026-10-27,,,,,,1,0,1,1,0,fresh
+M015,horizon eye specialists lasik center,rl:US:Booba Project:horizon eye specialists lasik center:2026-10-27,,,,,,0,0,0,1,1,fresh
+M080,hudson river museum,rl:US:Booba Project:hudson river museum:2026-10-27,,,,,,0,0,1,0,0,fresh
+M062,king family medical,rl:US:Booba Project:king family medical:2026-10-27,,,,,,0,0,1,0,1,fresh
+M111,lifefone,rl:US:Booba Project:lifefone:2026-10-29,,,,,,0,1,0,0,0,fresh
+M059,national association of credit management,rl:US:Booba Project:national association of credit management:2026-10-29,,,,,,0,1,0,0,0,fresh
+M130,south weber city,rl:US:Booba Project:south weber city:2026-10-29,,,,,,0,1,0,0,0,fresh
+M007,terrebonne parish government,rl:US:Booba Project:terrebonne parish government:2026-10-29,,,,,,0,1,0,0,0,fresh
+M027,sodali,rl:US:BrainCipher:sodali.com:2026-10-21,,,,,,0,1,0,0,0,fresh
+M097,food bank of central louisiana,rl:US:Dark Project:food bank of central louisiana:2026-11-04,,,,,,0,0,1,0,0,fresh
+M142,astrana health,rl:US:Falcon:astrana health:2026-10-25,,,,,,0,1,1,0,0,fresh
+M120,buchanan ingersoll rooney,rl:US:Falcon:buchanan ingersoll rooney pc:2026-11-03,,,,,,1,0,0,1,0,fresh
+M037,kontron north america,rl:US:Global Secret Group:kontron north america:2026-11-04,,,,,,0,0,0,1,0,fresh
+M009,tds telecommunications,rl:US:Global Secret Group:tds telecommunications:2026-10-29,,,,,,1,1,0,1,1,fresh
+M028,aesthetic dental designs p a,rl:US:HYFLOCK:aesthetic dental designs p a:2026-10-25,,,,,,0,0,0,0,1,fresh
+M128,hitech,rl:US:HYFLOCK:hitech:2026-11-01,,,,,,0,0,0,0,1,fresh
+M077,andrews advisory,rl:US:N0n:andrews advisory:2026-10-22,,,,,,1,0,0,0,0,fresh
+M165,andrews advisory,rl:US:N0n:andrews advisory:2026-10-25,,,,,,1,0,0,0,0,fresh
+M103,finzly,rl:US:N0n:finzly:2026-10-16,,,,,,0,0,1,0,0,fresh
+M008,finzly,rl:US:N0n:finzly:2026-10-19,,,,,,0,0,1,0,0,fresh
+M147,heritage senior living,rl:US:N0n:heritage senior living:2026-10-19,,,,,,0,0,0,0,1,fresh
+M038,heritage senior living,rl:US:N0n:heritage senior living:2026-10-21,,,,,,0,0,0,0,1,fresh
+M004,keidel supply,rl:US:N0n:keidel supply:2026-10-22,,,,,,0,0,0,1,0,fresh
+M170,keidel supply,rl:US:N0n:keidel supply:2026-10-25,,,,,,0,0,0,1,0,fresh
+M109,kingwood endoscopy,rl:US:N0n:kingwood endoscopy:2026-10-16,,,,,,0,0,0,0,1,fresh
+M126,kingwood endoscopy,rl:US:N0n:kingwood endoscopy:2026-10-19,,,,,,0,0,0,0,1,fresh
+M058,performance ford,rl:US:N0n:performance ford:2026-10-19,,,,,,0,0,0,0,1,fresh
+M124,performance ford,rl:US:N0n:performance ford:2026-10-22,,,,,,0,0,0,0,1,fresh
+M154,hydrogel vision,rl:US:Orova:hydrogel vision:2026-11-02,,,,,,0,0,0,0,1,fresh
+M117,holland knight,rl:US:Redact:holland knight:2026-11-02,,,,,,1,1,1,1,0,fresh
+M067,genesys,rl:US:Scarlettgroup:genesys.com:2026-10-16,,,,,,0,0,0,0,1,fresh
+M066,vinsolutions,rl:US:Scarlettgroup:vinsolutions.com:2026-10-23,,,,,,0,1,0,1,1,fresh
+M041,kirkland ellis,rl:US:SilentRansomGroup:kirkland ellis:2026-10-22,,,,,,0,1,0,1,0,fresh
+M152,lowenstein sandler,rl:US:SilentRansomGroup:lowenstein sandler:2026-10-28,,,,,,1,1,0,1,1,fresh
+M159,moritt hock hamroff,rl:US:SilentRansomGroup:moritt hock hamroff:2026-10-30,,,,,,0,0,0,0,1,fresh
+M019,susman godfrey,rl:US:SilentRansomGroup:susman godfrey:2026-10-30,,,,,,0,0,0,1,1,fresh
+M108,fortrex,rl:US:Wallstreet:fortrex:2026-10-28,,,,,,0,0,0,0,1,fresh
+M048,ryder,rl:US:Whitearmor:ryder:2026-10-27,,,,,,0,0,0,0,1,fresh
+M090,whirlpool,rl:US:Whitearmor:whirlpool:2026-10-21,,,,,,1,0,0,0,1,fresh
+M135,hudson hudson sign products,rl:US:akira:hudson hudson sign products:2026-10-30,,,,,,0,0,0,0,1,fresh
+M002,newcomer cremations funerals receptions,rl:US:anubis:newcomer cremations funerals receptions:2026-10-25,,,,,,0,0,1,0,0,fresh
+M155,santiam hospital clinics,rl:US:anubis:santiam hospital clinics:2026-10-28,,,,,,1,1,1,1,1,fresh
+M106,cp manufacturing,rl:US:aurora:cp manufacturing:2026-10-30,,,,,,0,0,0,1,0,fresh
+M024,barrow grimm,rl:US:bravox:barrow grimm:2026-10-22,,,,,,0,0,0,0,1,fresh
+M023,inside passage electric cooperative,rl:US:dragonforce:inside passage electric cooperative:2026-10-26,,,,,,1,0,0,1,0,fresh
+M011,eas engineering,rl:US:genesis:eas engineering:2026-10-30,,,,,,0,1,0,0,0,fresh
+M123,fred h beck associates,rl:US:genesis:fred h beck associates:2026-10-30,,,,,,0,1,0,0,0,fresh
+M005,illinois work injury resource center iwirc,rl:US:genesis:illinois work injury resource center iwirc:2026-10-30,,,,,,0,0,0,0,1,fresh
+M085,louisiana crane construction,rl:US:genesis:louisiana crane construction:2026-10-30,,,,,,0,1,1,0,0,fresh
+M146,coeur mining,rl:US:incransom:coeur mining:2026-10-29,,,,,,0,0,0,0,1,fresh
+M050,d l steiner,rl:US:incransom:d l steiner:2026-10-24,,,,,,0,0,0,0,1,fresh
+M032,help foundation,rl:US:incransom:help foundation:2026-11-09,,,,,,0,0,0,0,1,fresh
+M102,roundglass,rl:US:incransom:roundglass.com:2026-11-03,,,,,,0,0,0,0,1,fresh
+M129,indiana area school district,rl:US:interlock:indiana area school district:2026-11-10,,,,,,0,0,1,0,0,fresh
+M094,jerome school district,rl:US:interlock:jerome school district:2026-11-10,,,,,,0,0,1,0,0,fresh
+M100,meadows valley school district,rl:US:interlock:meadows valley school district:2026-11-10,,,,,,0,0,1,0,0,fresh
+M169,ridgway high school,rl:US:interlock:ridgway high school:2026-11-10,,,,,,0,0,1,0,1,fresh
+M022,adobe insurance brokers,rl:US:pear:adobe insurance brokers:2026-10-21,,,,,,1,0,0,0,0,fresh
+M046,neiman,rl:US:pear:neiman:2026-11-02,,,,,,1,0,0,0,0,fresh
+M086,coast 2 coast,rl:US:play:coast 2 coast:2026-10-27,,,,,,0,0,0,0,1,fresh
+M043,money concepts capital,rl:US:play:money concepts capital:2026-10-27,,,,,,0,0,0,0,1,fresh
+M040,commonwealth community bank,rl:US:qilin:commonwealth community bank:2026-10-24,,,,,,1,0,0,1,0,fresh
+M164,danser,rl:US:qilin:danser:2026-11-01,,,,,,1,0,1,1,0,fresh
+M132,five star sheets,rl:US:qilin:five star sheets:2026-10-26,,,,,,0,0,0,0,1,fresh
+M075,meshbesher spence,rl:US:qilin:meshbesher spence:2026-11-01,,,,,,0,0,0,0,1,fresh
+M143,nuvista federal credit union,rl:US:qilin:nuvista federal credit union:2026-10-27,,,,,,1,0,0,1,0,fresh
+M115,premier medical,rl:US:qilin:premier medical:2026-10-26,,,,,,0,0,0,0,1,fresh
+M053,richland resources,rl:US:qilin:richland resources:2026-10-30,,,,,,0,0,0,1,0,fresh
+M137,united restaurant supply,rl:US:qilin:united restaurant supply:2026-10-22,,,,,,1,0,0,1,0,fresh
+M026,white case,rl:US:qilin:white case:2026-10-25,,,,,,1,0,0,1,0,fresh
+M144,bi link,rl:US:thegentlemen:bi link:2026-10-31,,,,,,0,0,0,0,1,fresh
+M093,starimage,rl:US:thegentlemen:starimage:2026-10-26,,,,,,0,0,0,0,1,fresh
+M051,weld re 8 school district,rl:US:thegentlemen:weld re 8 school district:2026-10-21,,,,,,0,0,0,0,1,fresh
+M081,zehren and associates,rl:US:thegentlemen:zehren and associates:2026-10-26,,,,,,0,0,0,0,1,fresh

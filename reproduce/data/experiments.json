@@ -1,0 +1,992 @@
+{
+ "n": 2452,
+ "E1": {
+  "human": [
+   {
+    "k": 2.5,
+    "bursts": 36,
+    "by_topic": {
+     "critical_infrastructure": 1,
+     "data_breach": 8,
+     "ddos_outage": 1,
+     "gov_advisory": 2,
+     "malware_infostealer": 6,
+     "phishing_scam": 4,
+     "policy_regulation": 3,
+     "ransomware": 4,
+     "unassigned": 5,
+     "vulnerability_cve": 2
+    },
+    "share_survive_nonfeed": 0.5833,
+    "share_survive_participants": 0.1667,
+    "median_neff_burst_day": 9.0,
+    "median_neff_other_days": 3.57,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0664,
+    "base_rate_nonfeed_burst": 0.1084,
+    "median_feed_share_burst_day": 0.22
+   },
+   {
+    "k": 3.0,
+    "bursts": 25,
+    "by_topic": {
+     "data_breach": 5,
+     "gov_advisory": 2,
+     "malware_infostealer": 4,
+     "phishing_scam": 4,
+     "policy_regulation": 2,
+     "ransomware": 3,
+     "unassigned": 4,
+     "vulnerability_cve": 1
+    },
+    "share_survive_nonfeed": 0.48,
+    "share_survive_participants": 0.12,
+    "median_neff_burst_day": 9.31,
+    "median_neff_other_days": 4.0,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0455,
+    "base_rate_nonfeed_burst": 0.0699,
+    "median_feed_share_burst_day": 0.25
+   },
+   {
+    "k": 3.5,
+    "bursts": 22,
+    "by_topic": {
+     "data_breach": 5,
+     "gov_advisory": 2,
+     "malware_infostealer": 4,
+     "phishing_scam": 4,
+     "policy_regulation": 2,
+     "ransomware": 1,
+     "unassigned": 4
+    },
+    "share_survive_nonfeed": 0.5,
+    "share_survive_participants": 0.1364,
+    "median_neff_burst_day": 9.64,
+    "median_neff_other_days": 4.0,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0455,
+    "base_rate_nonfeed_burst": 0.0629,
+    "median_feed_share_burst_day": 0.22
+   }
+  ],
+  "behavioral_v1": [
+   {
+    "k": 2.5,
+    "bursts": 36,
+    "by_topic": {
+     "critical_infrastructure": 1,
+     "data_breach": 8,
+     "ddos_outage": 1,
+     "gov_advisory": 2,
+     "malware_infostealer": 6,
+     "phishing_scam": 4,
+     "policy_regulation": 3,
+     "ransomware": 4,
+     "unassigned": 5,
+     "vulnerability_cve": 2
+    },
+    "share_survive_nonfeed": 0.6944,
+    "share_survive_participants": 0.1667,
+    "median_neff_burst_day": 9.0,
+    "median_neff_other_days": 3.57,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0664,
+    "base_rate_nonfeed_burst": 0.1259,
+    "median_feed_share_burst_day": 0.258
+   },
+   {
+    "k": 3.0,
+    "bursts": 25,
+    "by_topic": {
+     "data_breach": 5,
+     "gov_advisory": 2,
+     "malware_infostealer": 4,
+     "phishing_scam": 4,
+     "policy_regulation": 2,
+     "ransomware": 3,
+     "unassigned": 4,
+     "vulnerability_cve": 1
+    },
+    "share_survive_nonfeed": 0.56,
+    "share_survive_participants": 0.12,
+    "median_neff_burst_day": 9.31,
+    "median_neff_other_days": 4.0,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0455,
+    "base_rate_nonfeed_burst": 0.0874,
+    "median_feed_share_burst_day": 0.267
+   },
+   {
+    "k": 3.5,
+    "bursts": 22,
+    "by_topic": {
+     "data_breach": 5,
+     "gov_advisory": 2,
+     "malware_infostealer": 4,
+     "phishing_scam": 4,
+     "policy_regulation": 2,
+     "ransomware": 1,
+     "unassigned": 4
+    },
+    "share_survive_nonfeed": 0.5455,
+    "share_survive_participants": 0.1364,
+    "median_neff_burst_day": 9.64,
+    "median_neff_other_days": 4.0,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0455,
+    "base_rate_nonfeed_burst": 0.0804,
+    "median_feed_share_burst_day": 0.237
+   }
+  ],
+  "volume_only": [
+   {
+    "k": 2.5,
+    "bursts": 36,
+    "by_topic": {
+     "critical_infrastructure": 1,
+     "data_breach": 8,
+     "ddos_outage": 1,
+     "gov_advisory": 2,
+     "malware_infostealer": 6,
+     "phishing_scam": 4,
+     "policy_regulation": 3,
+     "ransomware": 4,
+     "unassigned": 5,
+     "vulnerability_cve": 2
+    },
+    "share_survive_nonfeed": 0.6667,
+    "share_survive_participants": 0.1667,
+    "median_neff_burst_day": 9.0,
+    "median_neff_other_days": 3.57,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0664,
+    "base_rate_nonfeed_burst": 0.1259,
+    "median_feed_share_burst_day": 0.312
+   },
+   {
+    "k": 3.0,
+    "bursts": 25,
+    "by_topic": {
+     "data_breach": 5,
+     "gov_advisory": 2,
+     "malware_infostealer": 4,
+     "phishing_scam": 4,
+     "policy_regulation": 2,
+     "ransomware": 3,
+     "unassigned": 4,
+     "vulnerability_cve": 1
+    },
+    "share_survive_nonfeed": 0.48,
+    "share_survive_participants": 0.12,
+    "median_neff_burst_day": 9.31,
+    "median_neff_other_days": 4.0,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0455,
+    "base_rate_nonfeed_burst": 0.0804,
+    "median_feed_share_burst_day": 0.333
+   },
+   {
+    "k": 3.5,
+    "bursts": 22,
+    "by_topic": {
+     "data_breach": 5,
+     "gov_advisory": 2,
+     "malware_infostealer": 4,
+     "phishing_scam": 4,
+     "policy_regulation": 2,
+     "ransomware": 1,
+     "unassigned": 4
+    },
+    "share_survive_nonfeed": 0.5,
+    "share_survive_participants": 0.1364,
+    "median_neff_burst_day": 9.64,
+    "median_neff_other_days": 4.0,
+    "tested_topic_days": 286,
+    "base_rate_participant_burst": 0.0455,
+    "base_rate_nonfeed_burst": 0.0804,
+    "median_feed_share_burst_day": 0.271
+   }
+  ]
+ },
+ "E3": {
+  "human": {
+   "strata": {
+    "1-1": {
+     "feeds": 5,
+     "nonfeeds": 779,
+     "feed_posts": 5
+    },
+    "2-2": {
+     "feeds": 2,
+     "nonfeeds": 145,
+     "feed_posts": 4
+    },
+    "3-4": {
+     "feeds": 45,
+     "nonfeeds": 39,
+     "feed_posts": 154
+    },
+    "5-9": {
+     "feeds": 27,
+     "nonfeeds": 18,
+     "feed_posts": 184
+    },
+    "10-19": {
+     "feeds": 10,
+     "nonfeeds": 7,
+     "feed_posts": 124
+    },
+    "20-49": {
+     "feeds": 11,
+     "nonfeeds": 1,
+     "feed_posts": 358
+    },
+    "50-max": {
+     "feeds": 3,
+     "nonfeeds": 0,
+     "feed_posts": 187
+    }
+   },
+   "real": {
+    "rho_posts_rank": 0.8428,
+    "rw_rank_posts": 8,
+    "disp_ratio": 1.3045,
+    "rw_ratio": 0.3426,
+    "removed": 1016
+   },
+   "placebo_removed_posts_median": 438,
+   "stats": {
+    "rho_posts_rank": {
+     "real": 0.8428,
+     "placebo_median": 0.9909,
+     "placebo_95": [
+      0.9818,
+      1.0
+     ],
+     "real_percentile": 0.0
+    },
+    "rw_rank_posts": {
+     "real": 8.0,
+     "placebo_median": 4.0,
+     "placebo_95": [
+      4.0,
+      4.0
+     ],
+     "real_percentile": 1.0
+    },
+    "disp_ratio": {
+     "real": 1.3045,
+     "placebo_median": 1.3294,
+     "placebo_95": [
+      1.1224,
+      1.4638
+     ],
+     "real_percentile": 0.411
+    },
+    "rw_ratio": {
+     "real": 0.3426,
+     "placebo_median": 0.0937,
+     "placebo_95": [
+      0.0736,
+      0.1022
+     ],
+     "real_percentile": 1.0
+    }
+   }
+  },
+  "behavioral_v1": {
+   "strata": {
+    "1-1": {
+     "feeds": 0,
+     "nonfeeds": 784,
+     "feed_posts": 0
+    },
+    "2-2": {
+     "feeds": 0,
+     "nonfeeds": 147,
+     "feed_posts": 0
+    },
+    "3-4": {
+     "feeds": 0,
+     "nonfeeds": 84,
+     "feed_posts": 0
+    },
+    "5-9": {
+     "feeds": 33,
+     "nonfeeds": 12,
+     "feed_posts": 232
+    },
+    "10-19": {
+     "feeds": 15,
+     "nonfeeds": 2,
+     "feed_posts": 194
+    },
+    "20-49": {
+     "feeds": 11,
+     "nonfeeds": 1,
+     "feed_posts": 347
+    },
+    "50-max": {
+     "feeds": 3,
+     "nonfeeds": 0,
+     "feed_posts": 187
+    }
+   },
+   "real": {
+    "rho_posts_rank": 0.9182,
+    "rw_rank_posts": 7,
+    "disp_ratio": 1.1996,
+    "rw_ratio": 0.2468,
+    "removed": 960
+   },
+   "placebo_removed_posts_median": 290,
+   "stats": {
+    "rho_posts_rank": {
+     "real": 0.9182,
+     "placebo_median": 0.9977,
+     "placebo_95": [
+      0.9886,
+      1.0
+     ],
+     "real_percentile": 0.0
+    },
+    "rw_rank_posts": {
+     "real": 7.0,
+     "placebo_median": 4.0,
+     "placebo_95": [
+      4.0,
+      4.0
+     ],
+     "real_percentile": 1.0
+    },
+    "disp_ratio": {
+     "real": 1.1996,
+     "placebo_median": 1.2025,
+     "placebo_95": [
+      1.1556,
+      1.2554
+     ],
+     "real_percentile": 0.446
+    },
+    "rw_ratio": {
+     "real": 0.2468,
+     "placebo_median": 0.1302,
+     "placebo_95": [
+      0.0886,
+      0.1554
+     ],
+     "real_percentile": 1.0
+    }
+   }
+  },
+  "volume_only": {
+   "strata": {
+    "1-1": {
+     "feeds": 0,
+     "nonfeeds": 784,
+     "feed_posts": 0
+    },
+    "2-2": {
+     "feeds": 0,
+     "nonfeeds": 147,
+     "feed_posts": 0
+    },
+    "3-4": {
+     "feeds": 0,
+     "nonfeeds": 84,
+     "feed_posts": 0
+    },
+    "5-9": {
+     "feeds": 43,
+     "nonfeeds": 2,
+     "feed_posts": 291
+    },
+    "10-19": {
+     "feeds": 17,
+     "nonfeeds": 0,
+     "feed_posts": 219
+    },
+    "20-49": {
+     "feeds": 12,
+     "nonfeeds": 0,
+     "feed_posts": 382
+    },
+    "50-max": {
+     "feeds": 3,
+     "nonfeeds": 0,
+     "feed_posts": 187
+    }
+   },
+   "real": {
+    "rho_posts_rank": 0.7727,
+    "rw_rank_posts": 10,
+    "disp_ratio": 1.1603,
+    "rw_ratio": 0.416,
+    "removed": 1079
+   },
+   "placebo_removed_posts_median": 258,
+   "stats": {
+    "rho_posts_rank": {
+     "real": 0.7727,
+     "placebo_median": 1.0,
+     "placebo_95": [
+      0.9909,
+      1.0
+     ],
+     "real_percentile": 0.0
+    },
+    "rw_rank_posts": {
+     "real": 10.0,
+     "placebo_median": 4.0,
+     "placebo_95": [
+      4.0,
+      4.0
+     ],
+     "real_percentile": 1.0
+    },
+    "disp_ratio": {
+     "real": 1.1603,
+     "placebo_median": 1.3125,
+     "placebo_95": [
+      1.2792,
+      1.3507
+     ],
+     "real_percentile": 0.0
+    },
+    "rw_ratio": {
+     "real": 0.416,
+     "placebo_median": 0.0924,
+     "placebo_95": [
+      0.0907,
+      0.1273
+     ],
+     "real_percentile": 1.0
+    }
+   }
+  }
+ },
+ "E2": {
+  "critical_infrastructure": {
+   "posts": {
+    "rank": 9,
+    "drop_needed": 2,
+    "k_star": 8,
+    "authors": 52,
+    "posts_removed": 16,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 3,
+    "drop_needed": 2,
+    "k_star": 2,
+    "authors": 52,
+    "posts_removed": 2,
+    "random_same_posts_p": 0.002
+   }
+  },
+  "data_breach": {
+   "posts": {
+    "rank": 1,
+    "drop_needed": 2,
+    "k_star": 4,
+    "authors": 358,
+    "posts_removed": 38,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 1,
+    "drop_needed": 2,
+    "k_star": 48,
+    "authors": 358,
+    "posts_removed": 64,
+    "random_same_posts_p": 0.0
+   }
+  },
+  "ddos_outage": {
+   "posts": {
+    "rank": 10,
+    "drop_needed": 1,
+    "k_star": 1,
+    "authors": 40,
+    "posts_removed": 6,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 6,
+    "drop_needed": 2,
+    "k_star": 1,
+    "authors": 40,
+    "posts_removed": 2,
+    "random_same_posts_p": 0.054
+   }
+  },
+  "fraud_financial": {
+   "posts": null,
+   "cross_edges": {
+    "rank": 10,
+    "drop_needed": 1,
+    "k_star": 1,
+    "authors": 43,
+    "posts_removed": 1,
+    "random_same_posts_p": 0.019
+   }
+  },
+  "gov_advisory": {
+   "posts": {
+    "rank": 5,
+    "drop_needed": 2,
+    "k_star": 3,
+    "authors": 97,
+    "posts_removed": 74,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 3,
+    "drop_needed": 2,
+    "k_star": 2,
+    "authors": 97,
+    "posts_removed": 2,
+    "random_same_posts_p": 0.0
+   }
+  },
+  "malware_infostealer": {
+   "posts": {
+    "rank": 7,
+    "drop_needed": 2,
+    "k_star": 31,
+    "authors": 90,
+    "posts_removed": 64,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 9,
+    "drop_needed": 2,
+    "k_star": 2,
+    "authors": 90,
+    "posts_removed": 3,
+    "random_same_posts_p": 0.002
+   }
+  },
+  "phishing_scam": {
+   "posts": {
+    "rank": 6,
+    "drop_needed": 2,
+    "k_star": 37,
+    "authors": 127,
+    "posts_removed": 71,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 5,
+    "drop_needed": 2,
+    "k_star": 2,
+    "authors": 127,
+    "posts_removed": 2,
+    "random_same_posts_p": 0.0
+   }
+  },
+  "policy_regulation": {
+   "posts": {
+    "rank": 8,
+    "drop_needed": 2,
+    "k_star": 29,
+    "authors": 78,
+    "posts_removed": 42,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 7,
+    "drop_needed": 2,
+    "k_star": 1,
+    "authors": 78,
+    "posts_removed": 1,
+    "random_same_posts_p": 0.036
+   }
+  },
+  "ransomware": {
+   "posts": {
+    "rank": 4,
+    "drop_needed": 2,
+    "k_star": 3,
+    "authors": 67,
+    "posts_removed": 101,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": null
+  },
+  "unassigned": {
+   "posts": {
+    "rank": 3,
+    "drop_needed": 2,
+    "k_star": 152,
+    "authors": 346,
+    "posts_removed": 286,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 2,
+    "drop_needed": 2,
+    "k_star": 25,
+    "authors": 346,
+    "posts_removed": 46,
+    "random_same_posts_p": 0.0
+   }
+  },
+  "vulnerability_cve": {
+   "posts": {
+    "rank": 2,
+    "drop_needed": 2,
+    "k_star": 11,
+    "authors": 135,
+    "posts_removed": 238,
+    "random_same_posts_p": 1.0
+   },
+   "cross_edges": {
+    "rank": 7,
+    "drop_needed": 2,
+    "k_star": 1,
+    "authors": 135,
+    "posts_removed": 66,
+    "random_same_posts_p": 0.504
+   }
+  }
+ },
+ "E4": {
+  "self_edges": 297,
+  "classes": {
+   "continuation": 240,
+   "response": 50,
+   "self_quote": 7
+  },
+  "shares": {
+   "continuation": 0.8081,
+   "response": 0.1684,
+   "self_quote": 0.0236
+  },
+  "delay_minutes": {
+   "continuation": {
+    "median": 0.1,
+    "share_le_10min": 0.8667
+   },
+   "response": {
+    "median": 102.5,
+    "share_le_10min": 0.16
+   },
+   "self_quote": {
+    "median": 18.6,
+    "share_le_10min": 0.4286
+   },
+   "all": {
+    "median": 0.5,
+    "share_le_10min": 0.7374
+   }
+  },
+  "seeds_with_self_response": 44,
+  "delays_minutes": {
+   "continuation": [
+    101.404,
+    102.242,
+    6.152,
+    0.017,
+    0.017,
+    0.003,
+    0.009,
+    0.017,
+    0.0,
+    0.017,
+    0.0,
+    0.0,
+    0.0,
+    2.194,
+    20.796,
+    82.501,
+    0.027,
+    8.421,
+    4.649,
+    0.0,
+    0.0,
+    0.032,
+    0.0,
+    1.843,
+    0.0,
+    0.0,
+    1.72,
+    3.271,
+    1.471,
+    0.026,
+    16.392,
+    0.306,
+    0.0,
+    0.0,
+    0.0,
+    9.488,
+    15.494,
+    3.962,
+    0.033,
+    0.0,
+    261.774,
+    261.774,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    187.103,
+    0.05,
+    0.0,
+    0.0,
+    0.0,
+    7.462,
+    1.206,
+    6.217,
+    0.196,
+    0.389,
+    2.419,
+    6.725,
+    4.666,
+    6.217,
+    0.761,
+    0.76,
+    0.758,
+    0.2,
+    0.399,
+    0.113,
+    0.247,
+    0.003,
+    0.006,
+    0.0,
+    1.49,
+    0.0,
+    0.0,
+    16.962,
+    0.75,
+    0.0,
+    0.0,
+    2.143,
+    5.218,
+    0.0,
+    139.451,
+    0.0,
+    0.008,
+    0.017,
+    0.0,
+    0.0,
+    0.002,
+    0.001,
+    0.043,
+    0.041,
+    0.036,
+    1.596,
+    2.952,
+    0.017,
+    0.017,
+    0.0,
+    0.0,
+    0.0,
+    2.274,
+    2.073,
+    4.323,
+    0.0,
+    0.0,
+    0.01,
+    0.035,
+    0.0,
+    0.026,
+    0.052,
+    0.196,
+    0.391,
+    0.008,
+    0.011,
+    53.939,
+    74.208,
+    0.001,
+    0.001,
+    1.901,
+    6.825,
+    0.196,
+    0.392,
+    0.008,
+    0.011,
+    0.0,
+    0.0,
+    0.0,
+    0.014,
+    0.0,
+    10.018,
+    0.0,
+    0.0,
+    0.196,
+    0.394,
+    0.009,
+    0.017,
+    0.031,
+    0.0,
+    1.724,
+    4.077,
+    0.033,
+    5.256,
+    7.565,
+    0.0,
+    1.862,
+    0.237,
+    0.499,
+    3.086,
+    0.009,
+    0.017,
+    823.652,
+    10407.067,
+    7.587,
+    7.587,
+    142.767,
+    0.95,
+    0.191,
+    0.382,
+    0.005,
+    0.01,
+    0.0,
+    0.0,
+    1.111,
+    1.686,
+    0.15,
+    0.0,
+    0.011,
+    0.049,
+    0.0,
+    0.0,
+    0.195,
+    0.389,
+    0.013,
+    0.016,
+    0.0,
+    0.0,
+    28.097,
+    30.639,
+    0.0,
+    0.0,
+    0.0,
+    38.936,
+    0.002,
+    0.004,
+    0.0,
+    3.641,
+    0.117,
+    5.127,
+    5.127,
+    0.0,
+    1.045,
+    7.638,
+    0.003,
+    0.008,
+    30.413,
+    35.026,
+    0.008,
+    0.011,
+    0.826,
+    2.718,
+    0.0,
+    1.425,
+    0.429,
+    0.839,
+    1.343,
+    21.484,
+    6.106,
+    0.01,
+    0.048,
+    0.117,
+    119.383,
+    0.392,
+    0.719,
+    2618.892,
+    5121.432,
+    5139.925,
+    2865.63,
+    0.607,
+    1.108,
+    0.17,
+    0.34,
+    0.529,
+    0.0,
+    0.017,
+    0.0,
+    0.0,
+    0.056,
+    0.0,
+    0.0,
+    0.0,
+    0.003,
+    0.027,
+    0.0,
+    0.0,
+    374.739,
+    0.1,
+    27.216,
+    0.117,
+    3500.567,
+    3494.567,
+    2.926,
+    5.924
+   ],
+   "response": [
+    45.556,
+    173.751,
+    68.113,
+    859.601,
+    97.847,
+    1693.887,
+    866.636,
+    1169.107,
+    55.227,
+    1510.47,
+    1540.109,
+    1540.903,
+    28.215,
+    1532.373,
+    20.973,
+    7.21,
+    30.371,
+    55.558,
+    5.477,
+    3.876,
+    13.708,
+    2.456,
+    1504.491,
+    158.346,
+    1.245,
+    577.922,
+    147.187,
+    23.609,
+    2882.188,
+    114.67,
+    57.722,
+    190.679,
+    124.543,
+    7.111,
+    14.614,
+    127.107,
+    16.778,
+    736.731,
+    8.093,
+    144.486,
+    1613.56,
+    174.546,
+    431.329,
+    42.995,
+    24.516,
+    53.762,
+    107.088,
+    479.771,
+    11.447,
+    8.175
+   ],
+   "self_quote": [
+    1.37,
+    18.627,
+    163.957,
+    2.63,
+    5.577,
+    623.448,
+    1722.17
+   ]
+  }
+ }
+}

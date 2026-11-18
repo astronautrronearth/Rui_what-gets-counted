@@ -1,0 +1,168 @@
+{
+ "seed": 20261106,
+ "per_country": 25,
+ "models": {
+  "reference": "claude-sonnet-5-5",
+  "second": "claude-haiku-4-5-20251001"
+ },
+ "note": "LLM labels; not human validation",
+ "stratum_size_in_manifest": {
+  "canada": 736,
+  "united_states": 5268,
+  "united_kingdom": 1344,
+  "australia": 302,
+  "india": 320,
+  "germany": 662,
+  "france": 287,
+  "japan": 235,
+  "netherlands": 160,
+  "singapore": 89
+ },
+ "countries": {
+  "canada": {
+   "n": 25,
+   "reference": {
+    "yes": 21,
+    "no": 4
+   },
+   "second": {
+    "yes": 22,
+    "no": 3
+   },
+   "precision_reference": 0.84,
+   "agreement": 0.88
+  },
+  "united_states": {
+   "n": 25,
+   "reference": {
+    "yes": 25
+   },
+   "second": {
+    "yes": 24,
+    "no": 1
+   },
+   "precision_reference": 1.0,
+   "agreement": 0.96
+  },
+  "united_kingdom": {
+   "n": 25,
+   "reference": {
+    "yes": 19,
+    "unclear": 3,
+    "no": 3
+   },
+   "second": {
+    "yes": 21,
+    "no": 4
+   },
+   "precision_reference": 0.8636,
+   "agreement": 0.76
+  },
+  "australia": {
+   "n": 25,
+   "reference": {
+    "yes": 21,
+    "no": 2,
+    "unclear": 1,
+    "invalid:": 1
+   },
+   "second": {
+    "yes": 20,
+    "no": 5
+   },
+   "precision_reference": 0.913,
+   "agreement": 0.8
+  },
+  "india": {
+   "n": 25,
+   "reference": {
+    "yes": 19,
+    "no": 5,
+    "unclear": 1
+   },
+   "second": {
+    "yes": 20,
+    "no": 5
+   },
+   "precision_reference": 0.7917,
+   "agreement": 0.84
+  },
+  "germany": {
+   "n": 25,
+   "reference": {
+    "yes": 20,
+    "unclear": 1,
+    "invalid:ok": 1,
+    "no": 3
+   },
+   "second": {
+    "yes": 20,
+    "no": 5
+   },
+   "precision_reference": 0.8696,
+   "agreement": 0.88
+  },
+  "france": {
+   "n": 25,
+   "reference": {
+    "yes": 19,
+    "no": 5,
+    "unclear": 1
+   },
+   "second": {
+    "yes": 21,
+    "no": 4
+   },
+   "precision_reference": 0.7917,
+   "agreement": 0.88
+  },
+  "japan": {
+   "n": 25,
+   "reference": {
+    "yes": 24,
+    "no": 1
+   },
+   "second": {
+    "yes": 20,
+    "no": 5
+   },
+   "precision_reference": 0.96,
+   "agreement": 0.84
+  },
+  "netherlands": {
+   "n": 25,
+   "reference": {
+    "yes": 22,
+    "no": 2,
+    "unclear": 1
+   },
+   "second": {
+    "yes": 23,
+    "no": 1,
+    "unclear": 1
+   },
+   "precision_reference": 0.9167,
+   "agreement": 0.96
+  },
+  "singapore": {
+   "n": 25,
+   "reference": {
+    "yes": 23,
+    "no": 2
+   },
+   "second": {
+    "yes": 22,
+    "no": 3
+   },
+   "precision_reference": 0.92,
+   "agreement": 0.96
+  }
+ },
+ "overall": {
+  "n": 250,
+  "precision_reference": 0.8875,
+  "errors": 0,
+  "agreement": 0.876,
+  "kappa": 0.5202
+ }
+}
