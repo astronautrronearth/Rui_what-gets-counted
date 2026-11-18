@@ -2,7 +2,7 @@
 
 Only annotator B (an author) returned labels; B labelled the random double-label subsets (T1 120, T2 50, T3 60,
 T4 50). Following ANNOTATION_PLAN.md section 9 (fallback), B's labels estimate precision and the model annotator
-A_llm (Qwen3.5-4B, outputs/www_audit/returned/llm_A) is the second rater for Cohen's kappa on the same items.
+A(outputs/www_audit/returned/A) is the second rater for Cohen's kappa on the same items.
 "unsure" (or blank) labels are excluded from precision denominators and reported; kappa is computed on items where
 both raters gave a definite label. 95% Wilson intervals for unweighted shares.
 
