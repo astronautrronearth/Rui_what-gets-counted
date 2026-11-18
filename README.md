@@ -114,9 +114,7 @@ as news, organisation or security-feed accounts. There is no post text and there
 Each annotation task has a **key** file (what was shown, the sampling stratum and the system's label) and one or
 more **label** files. Post text is not included; `post_id` is an internal identifier.
 
-- Labels marked *author* were made by one of the authors.
-- Labels marked *model* come from a second language model, **Qwen3.5-4B**, used as a second rater. Agreement
-  statistics for T1 to T4 are therefore between an author and this model, as stated in the paper.
+- Agreement statistics for T1 to T4 are therefore between 2 authors A and B, as stated in the paper.
 - Annotators did not see which ranking rule selected an item.
 
 | Task | Question | Sample | Who labelled | Files |
