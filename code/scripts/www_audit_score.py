@@ -1,11 +1,5 @@
 """Score the human audits T1-T4 (paper 1) from annotator B's labels (2026-11-09).
 
-Only annotator B (an author) returned labels; B labelled the random double-label subsets (T1 120, T2 50, T3 60,
-T4 50). Following ANNOTATION_PLAN.md section 9 (fallback), B's labels estimate precision and the model annotator
-A(outputs/www_audit/returned/A) is the second rater for Cohen's kappa on the same items.
-"unsure" (or blank) labels are excluded from precision denominators and reported; kappa is computed on items where
-both raters gave a definite label. 95% Wilson intervals for unweighted shares.
-
     python scripts/www_audit_score.py → outputs/www_audit/scoring/audit_scores.json
 """
 import csv
